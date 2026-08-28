@@ -1,5 +1,8 @@
 {
   "enabledCssSnippets": [
-    "noctalia"
-  ]
+    "inir"
+  ],
+  "theme": "system",
+  "accentColor": "",
+  "cssTheme": ""
 }
