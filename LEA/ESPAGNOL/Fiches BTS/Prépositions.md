@@ -1,0 +1,1 @@
+![[LEA/ESPAGNOL/Fiches BTS/pasted img/Pasted image 20260907221511.png]]
