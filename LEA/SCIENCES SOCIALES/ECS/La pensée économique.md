@@ -34,4 +34,4 @@ Def = libéralisme avec l'intervention de l'état
 - Eco ouverte = 3 agents + le reste du monde
 -> Echanges / accords avec les autres pays ( transactions, import / export, investissement,capital...)
 
-Def éco = 
+Def éco = Vient du grec "oikos" (maison) et "nomos" (règle / administration)
