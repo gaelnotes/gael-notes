@@ -19,3 +19,11 @@ K2: accorder l'auxiliaire en fonction du verbe
 K3: aux + S + Vb infinitif
 
 ### 2. Forme négative
+<font color="#2DC26B">O</font> - He'<mark style="background:#b1ffff">s</mark> <mark style="background:#fff88f">not</mark> <mark style="background:#ff4d4f">going</mark> to the meeting.
+S + aux + not + Vb (K1)
+<font color="#2DC26B">O</font> - It <mark style="background:#b1ffff">does</mark><mark style="background:#fff88f">n't</mark> <mark style="background:#ff4d4f">manufacture</mark> cars.
+
+### 3. Question tags
+<font color="#2DC26B">O</font> - He is going to the meeting, <mark style="background:#40a9ff">isn't he</mark> ?
+aux  +/- not + S
+<font color="#2DC26B">O</font> - This company manufactures cars, <mark style="background:#40a9ff">doesn't it</mark> ?
