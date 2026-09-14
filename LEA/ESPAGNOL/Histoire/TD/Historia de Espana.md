@@ -47,7 +47,7 @@ METODOLOGIA DEL COMENTARIO
 > 2 de mayo = la rebelion
 > 3 de mayo = la represion
 
-1 contexto historico 
+1. contexto historico 
 que evento representa la pintura el 3 de mayo
 invasion napoleonica en 1808 -> José Bonaparte => reformas de represion > revueltas y guerillas, guerra de indepedencia + no les gustan tener un rey estranjero
 
@@ -57,3 +57,14 @@ El hombre en camisa blanca, representa la revolucion y el horror
 
 Como estan representados los soldados franceses ? por qué goya los pinta de espaldas ?
 no podemos ver sus visages, no emocion / humanidad
+
+Que emociones transmiten los rostros de los condenados ?
+el miedo
+
+3. tecnica y estilo
+Que elementos  usa goya para crear dramatismo en la escena ?
+el sangre, la luz, el contrasto entre el revolucionario en blanco y los soldadores en sombre + vision de horror con cadavres
+
+Como influye el uso de la luz y la oscuridad en la atmosfera de la pintura
+luz = la razon / el bien, =/= soldadores en sombre = el mal
+
