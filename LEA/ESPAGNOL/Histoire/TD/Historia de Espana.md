@@ -65,6 +65,17 @@ el miedo
 Que elementos  usa goya para crear dramatismo en la escena ?
 el sangre, la luz, el contrasto entre el revolucionario en blanco y los soldadores en sombre + vision de horror con cadavres
 
-Como influye el uso de la luz y la oscuridad en la atmosfera de la pintura
+Como influye el uso de la luz y la oscuridad en la atmosfera de la pintura?
 luz = la razon / el bien, =/= soldadores en sombre = el mal
 
+4. interpretacion
+Creéis que goya queria transmitir un mensahe politico o emocional?
+Politico porque es para denonciar las acciones de reprecion del regimo de josé bonaparte.
+
+Como se =/= esta obra de otras representaciones de guerra o batallas ? 
+muestra la realidad de un masacro, su horror+ mezcla de colores frias (por los soldaderos) y calientes (por los revolucionarios)
+
+NEXTWEEK : finir les Q + trouver une problématica et déposer sur moodle
+
+Feudal= orga politica y social
+Feudo= contrato de explotacion, fidelidad del vasallo al donante + servicio militar
