@@ -77,5 +77,5 @@ muestra la realidad de un masacro, su horror+ mezcla de colores frias (por los s
 
 NEXTWEEK : finir les Q + trouver une problématica et déposer sur moodle
 
-Feudal= orga politica y social
-Feudo= contrato de explotacion, fidelidad del vasallo al donante + servicio militar
+>Feudal= orga politica y social
+ Feudo= contrato de explotacion, fidelidad del vasallo al donante + servicio militar
