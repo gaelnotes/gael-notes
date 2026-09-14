@@ -32,9 +32,28 @@ Representación parlamentaria: elecciones, aunque al principio con sufragio cens
 
 METODOLOGIA DEL COMENTARIO
 >1. Introduccion
->	Gancho (crochet), contextualizacion, naturaleza, autor, fuente, lugar, destinario, objetivo, intencion, resumen, vinculo (lien)
+>	Gancho (crochet), contextualizacion, naturaleza, autor, fuente (nom du doc), lugar, destinario, objetivo, intencion, resumen, vinculo (lien)
 >2. Problematica
 >3. El plan
 >4. Analisis 
 >5. Conclusion
 >6. Apertura
+
+![[LEA/ESPAGNOL/Histoire/TD/Pasted image 20260914105346.png]]
+
+=/= 2/3 de mayo
+> ejecuciones masivas durante la noche del dos, levanta del sol el 3, enforza el horror dela ejecucion
+> Goya pinto el 2 de mayo que muestra la lucha entre madrilenos y soldados franceses
+> 2 de mayo = la rebelion
+> 3 de mayo = la represion
+
+1 contexto historico 
+que evento representa la pintura el 3 de mayo
+invasion napoleonica en 1808 -> José Bonaparte => reformas de represion > revueltas y guerillas, guerra de indepedencia + no les gustan tener un rey estranjero
+
+2. analisis visual
+Que figura ocupa el centro de la composicion y qué simboliza su postura ?
+El hombre en camisa blanca, representa la revolucion y el horror
+
+Como estan representados los soldados franceses ? por qué goya los pinta de espaldas ?
+no podemos ver sus visages, no emocion / humanidad
