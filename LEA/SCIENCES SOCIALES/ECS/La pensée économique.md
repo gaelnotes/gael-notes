@@ -117,7 +117,7 @@ Marché biens   | Marché titres / K
 WALRAS : ts les marchés sont inter dep : 1 chgt peut impacter * marchés
 MARSHALL : o/d
 
-## 1.3 Néo-libéraux
+## 1.3 Néo-libéraux - Friedrich Hayek
 - Défendent role limit de l'état / lib des marchés
 - conc / px transmettent une nfo dispee entre les acteurs
 - hayek critique la plan centrale et l'intervention publiqueexcessive
@@ -128,3 +128,51 @@ DEBAT = pr hayek, trop d'intervent° peut coser des distorsions, critique surtou
 Résumé le PB = l'info (dans éco complexe, aucun agent ne sait exact cb de R sont dispo / qtt exacte pouvant être demandées par les conso, auxquelles sont asso des techno / innovs utilisées dans le futur pr  anal o/d : les px ne peuvent pas  refléter tte l'info ex)
 
 Pr Hayek état = seulement juridique
+
+### 1.3.2 Milton Friedman (1912-2006)
+MONETARISME
+- Monnaie = rôle centralds évol des px
+- Une créa° monétaire excess peut alim l'infla°
+- La politique monétaire doit être prévisible et orientée vers la stab
+
+ROLE DE L'ETAT
+- Friedman crit les relances bud répétées
+- Pref regles stab à des interv discrétionnaires
+- L'état doit se concentrer sur un cadre instit et monétaire stab
+
+L'infla° ds l'éco est liée à aug excess de la qtt de monnaie (soit masse monétaire / offre de la monnaie) en circula° dépasse / devient sup à la qtt des B/S prod par l'E, dans ce cas là le nv gen des px tend à aug ce qui provoque de l'infla° = idée centrale du monétarisme.
+
+Cmt état contrôle : à travers créa monnaie, tx intérêt (outils util par la bq centrale pr control masse monétaire)
+
+Politique monétaire doit etre previsible et orient vers la stab
+Friedman crit aussi le gvt qui ajuste en permanence les impots etc car etat touche aussi des recettes et a des dépenses publiques
+interv discrétionnaires = Ensemble des décisions ponctuelles de l'état
+
+Keynes critique ce point, dit que l'état doit intervenir en cas de crise.
+Repere :  les idées monétaristes deviennent très influentes à partir des années 70.
+Si tx intérêt aug, tx invest diminue et inversement.
+
+## 2. Le courant Marxiste
+- Marx analyse le Klisme comme un systeme fondé sur la prop priv du K
+- La société  est structurée par des rapports entre les classes sociales
+- Les travailleurs vendent leur force de travail en échange d'un salaire
+- La +value désigne la part de valeur appropriée par le détenteur du K
+- Les contradictions du Klisme peuvent provoquer crises et conflits sociaux.
+
+Selon KM valeur créée par travailleurs sup> à leur salaire = +value (=/= entre valeur créée / salaire)
+Cette =/= revient aux propriétaires du K et cela ds sa notion d'exploitation
+
+### KM : concepts clés
+VALEUR TRAVAIL
+- reliée au travail socialement nécessaire à la prod
+- la force de travail devient une marchandise particulière
+
+MATERIALISME HISTORIQUE
+- Les instit évol avec les rapp de prod
+- Chaque mode de prod contient des contradictions
+
+CRISES DU KLISME
+- La recherche du profit peut provoquer surprod et sous-conso
+- Les crises sont vues comme récurrentes et non comme de simples accidents
+
+Passage du féodalisme (prod fondée sur travail des paysans dépendants, soumis à un seigneur qui détient la terre) au Klisme (travailleurs et détenteurs des facteurs de prod) où la prod repose sur la prop priv des moyens de prod
