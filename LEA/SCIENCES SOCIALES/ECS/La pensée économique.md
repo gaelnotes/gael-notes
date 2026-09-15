@@ -217,3 +217,28 @@ IDEE DE CONTINUITE AVEC MARX
 
 **K > Expansion> Domination > Conflits**
 
+### Influ dumarxisme sur les autres auteurs
+SAMIR AMIN
+- Echange inégal entre Nord et Sud
+- Dependence des éco périphériques
+- Idée de déconnexion pour "renforcer" l'autonomie
+
+AMARTYA SEN
+- Le dev ne se réduit pas au PIB
+- Santé, éduc et lib réellessont essentielles
+- Les "capabilités"  mesurent ce que les individus peuvent réellement faire et être
+
+RAUL PREBISCH
+- Opposition entre centre industrialisé et périph
+- Risque de détérioration des termes de l'échange
+- Industrialisation pour réduite la dépendance aux importations
+Selon lui les pays quisont en voie de dev et qui exportent des MP gagnent relativement moins avec le temps que les pays industrialisés et là vient la nécessité de dev leur propre industrie.
+A poussé ces pays à être autonomes et améliorer leurs industries.
+
+## 3. Le courant keynésien
+- Keynes devson anal ds le contexte de la Grande Dépression des années 1930
+- Il conteste l'idée que les marchés reviennent tjr spontanément au plein emploi
+- la demande glonale influ directement ka prod et l'emploi
+- Une éco peut rester durablement en sit de ss emploi
+- l'état peut soutenir l'activité par la dépense publique et la politique économique7
+
