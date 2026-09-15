@@ -86,3 +86,9 @@ pas de vente pas de profit
 	- Le manque de main d'oeuvre qui a naissecité de faire preuve d'imagination / innov pr découv nvlles techs et rep à la demande
 	- <u>EXPLICATION FI</u> : le besoin d'invest : d'où la nécessaire capacité à trouver un système leur permettant de trouver des Kaux. Des organismes vont apparaitre et permettre aux E de trouver facilement ses Kx : un système bq va ainsi se dev en GB.
 	- <u>EXPLICATION RELIGIEUSE</u> : Thèse de Max Weber = lien entre devdu Klisme et religion protestante (calvinisme,prédestination, éthique du travail, ascétisme...) -> d'où un environnement culturel religieux favorable à l'esprit d'entreprise et qui a favorisé cette révolution.
+- D'autres explications :
+	- Disponibilité de l'énergie (charbon)
+		- source d'énergie facile à extraire
+		- très efficace pr la machine à vapeur
+		- -> énergie abondante à pris très bas
+		- 
