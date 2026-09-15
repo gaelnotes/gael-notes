@@ -31,15 +31,25 @@ aux  +/- not + S
 ## Le présent 
 ### 1. Format
 Au présent simple
-- Affirmatif: <font color="#2DC26B">she like<mark style="background:#ff4d4f">s</mark> this firm</font> (présent simple)
-- Interrogatif : <font color="#2DC26B">Does she like<mark style="background:#ff4d4f">_</mark> this firm ?</font>
-- Négatif : <font color="#2DC26B">She doesn't like this firm.</font>
+- Affirmatif: 
+	- <font color="#2DC26B">she like<mark style="background:#ff4d4f">s</mark> this firm</font> 
+	- <font color="#2DC26B">She <u>is writing</u></font>
+- Interrogatif : 
+	- <font color="#2DC26B">Does she like<mark style="background:#ff4d4f">_</mark> this firm ?</font>
+	- 
+- Négatif : 
+	- <font color="#2DC26B">She doesn't like this firm.</font>
+	- 
 
 ### 2. Contextes d'utilisation
 - Présent simple
 	- <u>Vérités permanentes</u>
 		- <font color="#2DC26B">O</font> - Water boil<mark style="background:#ff4d4f">s</mark> at 100°C.
-	- <u>Habitudes, valeurs fréquentatives</u>
+	- <u>Habitudes, valeurs fréquentatives, description d'objet</u>
 		- <font color="#2DC26B">O</font> - He wakes up at 6:00am <u>every morning</u>
 - Présent continu (-ing)
-	- 
+	- <u>Actions en cours de déroulement</u> (être en train de....)
+		- <font color="#2DC26B">O</font> - Look ! He is sleeping.
+	- <u>Action temporaire, ponctuelle</u> (now, currently, this week, today, this year...)
+		- <font color="#2DC26B">O</font> - You're working hard today. =/= prez simple : You work hard.
+
