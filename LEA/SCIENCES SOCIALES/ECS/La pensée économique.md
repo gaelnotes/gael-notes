@@ -116,3 +116,15 @@ Marché biens   | Marché titres / K
 .                         \ /
 WALRAS : ts les marchés sont inter dep : 1 chgt peut impacter * marchés
 MARSHALL : o/d
+
+## 1.3 Néo-libéraux
+- Défendent role limit de l'état / lib des marchés
+- conc / px transmettent une nfo dispee entre les acteurs
+- hayek critique la plan centrale et l'intervention publiqueexcessive
+- associe la lib eco et prot de la lib indiv
+- l'etat doit surtout garantir les regles les contrats et les droits de propriété
+IDEE CENTRALE = pas d'autorité possède tt l'info necessaire pr orga effic. l'éco
+DEBAT = pr hayek, trop d'intervent° peut coser des distorsions, critique surtout la planification / controle centralisé
+Résumé le PB = l'info (dans éco complexe, aucun agent ne sait exact cb de R sont dispo / qtt exacte pouvant être demandées par les conso, auxquelles sont asso des techno / innovs utilisées dans le futur pr  anal o/d : les px ne peuvent pas  refléter tte l'info ex)
+
+Pr Hayek état = seulement juridique
