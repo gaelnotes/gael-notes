@@ -242,3 +242,17 @@ A poussé ces pays à être autonomes et améliorer leurs industries.
 - Une éco peut rester durablement en sit de ss emploi
 - l'état peut soutenir l'activité par la dépense publique et la politique économique7
 
+### 3.1 Post Keynésiens / 3.2 Néo Keynésiens
+POST - NICOLAS KALDOR
+- Prolongent les instit de Keynes sur l'incert et la demande
+- Insistent sur la répart des revenus et la croissance
+- Les inégalités peuvent réduire la conso et affaiblir la demande
+- Une régul éco peut être nécessaire
+
+NEO - STIGLITZ, KRUGMAN
+- Intègrent des imperfections de marché dans l'anal moderne
+- Stiglitz = asymétries d'info et marchés imparfaits (cmt ad les agents n'ont pas accès aux infs peuvent créer des marchés imparfaits)
+- Krugman = rôle des politiques publiques en période decrise
+- Le marché peut être efficace sans tjr être auto-correcteur (cette correction est appliquée par l'état)
+
+## Synthèse : 3 Grandes visions de l'éco

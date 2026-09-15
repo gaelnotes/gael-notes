@@ -27,3 +27,19 @@ S + aux + not + Vb (K1)
 <font color="#2DC26B">O</font> - He is going to the meeting, <mark style="background:#40a9ff">isn't he</mark> ?
 aux  +/- not + S
 <font color="#2DC26B">O</font> - This company manufactures cars, <mark style="background:#40a9ff">doesn't it</mark> ?
+
+## Le présent 
+### 1. Format
+Au présent simple
+- Affirmatif: <font color="#2DC26B">she like<mark style="background:#ff4d4f">s</mark> this firm</font> (présent simple)
+- Interrogatif : <font color="#2DC26B">Does she like<mark style="background:#ff4d4f">_</mark> this firm ?</font>
+- Négatif : <font color="#2DC26B">She doesn't like this firm.</font>
+
+### 2. Contextes d'utilisation
+- Présent simple
+	- <u>Vérités permanentes</u>
+		- <font color="#2DC26B">O</font> - Water boil<mark style="background:#ff4d4f">s</mark> at 100°C.
+	- <u>Habitudes, valeurs fréquentatives</u>
+		- <font color="#2DC26B">O</font> - He wakes up at 6:00am <u>every morning</u>
+- Présent continu (-ing)
+	- 
