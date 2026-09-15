@@ -36,10 +36,10 @@ Au présent simple
 	- <font color="#2DC26B">She <u>is writing</u></font>
 - Interrogatif : 
 	- <font color="#2DC26B">Does she like<mark style="background:#ff4d4f">_</mark> this firm ?</font>
-	- 
+	- <font color="#2DC26B">Is she writing ?</font>
 - Négatif : 
 	- <font color="#2DC26B">She doesn't like this firm.</font>
-	- 
+	- <font color="#2DC26B">She isn't writing</font>
 
 ### 2. Contextes d'utilisation
 - Présent simple

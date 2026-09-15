@@ -33,3 +33,5 @@ pas de vente pas de profit
 - Place du droit / état ds naissance de E moderne
 	- l'unif du marché l'état, en se construisant, en dev son admin, en unifiant son territoire et en facilitant le comm interna°
 	- le droit des sociétés
+
+ 
