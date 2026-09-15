@@ -182,9 +182,30 @@ Révolutions, théories de l'impérialisation et débats sur le dev
 - Vladimir Lenin
 - Samir Amin (échange inégal)
 - Amartya Sen (Capabilités et dev humain)
-- Raüt Prebisch (ventre_périphérie)
+- Raul Prebisch (ventre_périphérie)
 /!\ ces auteurs ne sont pas tous marxiste; sont regroupés pr montrer l'élargissement  du débat sur les inégalités et le dev
 
 IMPERIALISME = politique par laquelle un état chercheà étendre sa domination politique / économique / monétaire / militaire sur les autres pays.
 
+Samir Amin dev une crit des rapp inégaux, spécif entre le centre et les périphéries de l'éco mondiale
+
+Amartya Sen a déplacé le débat de la croissance éco vers les lib réelles (éduc, santé)
+Raul Prebisch eco centralisée sur les pays devs, les pays sous dév / en cours de dev sont les exportateurs des MP (les pays dev font de la sous traitance avec les pays en voie de dev)
+
+### 2.3 L'influence de l'impérialisme sur la théorie impérialiste de Lenin
+IMPERIALISME 
+- Décrit comme une phase avancée du Klisme
+- Le K fi et de grd grps concentrent le pv éco
+
+CONCENTRA° ET MONOPOLES
+- La concentra° du K réduit le nb de grd acteurs (empecher l'arriver de nouvelles E, créa° de barrières à l'entrée)
+- Des cartels et monopoles peuvent dominer certains marchés Monopole = 1 entreprise controle le marché Oligopole = =/= E contrôlent le marché
+
+PROPRIOS ET GESTIONNAIRES
+- La prop du K se distingue davantage de la gest des E
+- Les rentiers et instit Fi gagnent en influ
+
+IDEE DE CONTINUITE AVEC MARX 
+- Lenin reprend la logique de concentra°du K
+- L'étend à l'échelle intarna°ale
 
