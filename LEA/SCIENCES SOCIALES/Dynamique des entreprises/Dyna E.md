@@ -97,3 +97,8 @@ pas de vente pas de profit
 	- Economie d'archipels dans un océan rural :archipel = ensemble d'îles. Métaphore pr dire que partout c'est l'agriculture (océan) et de temps en temps un centre industriel (îles) -> donc PAS un processus uniforme, mais l'industrialisation apparaît dans des lieux particuliers.
 	- D'où l'importance
 		- De la machine à vapeur car dev le train pr transporter les marchandises entre ces "iles" et le reste du territoire.
+	- Protectionnisme dans le cadre d'échanges commerciaux avec d'autres pays
+		- système de libre échange: liberté de circul des marchandises.
+		- système protectionnistes: contraire du libre échange, mep de barrières à l'entrée, pr protéger les pdts nationaux (taxes, etc.)
+	- Or c'est l'étatqui choisit entre les 2, d'où un nouveau rôle de l'état (idem avec contruction d'infrastructures)
+	- 
