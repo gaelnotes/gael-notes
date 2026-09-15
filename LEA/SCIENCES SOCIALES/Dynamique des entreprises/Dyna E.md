@@ -92,3 +92,8 @@ pas de vente pas de profit
 		- très efficace pr la machine à vapeur
 		- -> énergie abondante à pris très bas
 => On constate donc bien une conjonction de facteurs qui ont favorisé le dev de cette révolution et l'essor du Klisme.
+
+- Notions importantes : 
+	- Economie d'archipels dans un océan rural :archipel = ensemble d'îles. Métaphore pr dire que partout c'est l'agriculture (océan) et de temps en temps un centre industriel (îles) -> donc PAS un processus uniforme, mais l'industrialisation apparaît dans des lieux particuliers.
+	- D'où l'importance
+		- De la machine à vapeur car dev le train pr transporter les marchandises entre ces "iles" et le reste du territoire.
