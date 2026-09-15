@@ -72,3 +72,16 @@ pas de vente pas de profit
 			- 22 qui surveillent les autres (nouveauté être payé pour surveiller et pas pour produire)
 	- Le contrôle social est tout à fait d'actualité grâce à l'informatique ajd, possiblité de surveiller à distance (heure de début / d'arrêt de travail, etc.)
 	- Les instruments du CS n'ont jamais disparu, ils ont évolués et se sont perfectionnés grâce aux avancées technologiques.
+
+## Partie 2
+
+- Pk la revolution industrielle en GB ?
+	- Cmt expliquer le passage au factory system(manuf, usine) :  dès lors que le marché devient + important l'enjeu es tde satisfaire la demande :
+		- la prod par le système de travail à domicile n'est pas suffisant pr prod en grd qtt -> nessecité de rassembler les pers au meme endroit pr prod +
+		- l'innov technique, notament avec la machine à vapeur : regrouper le monde nécessaire autour des machines.
+		- La pression des métiers organisés (naissance des corpos et des syndicats)
+			- évite la concu entre ses membres
+			- factory sysrem permet d'échapper aux corpo, faire jouer la concu entre les pers productrices (rural = moins cher)
+	- La volonté d'unif du marché intérieur;
+	- Le manque de main d'oeuvre qui a naissecité de faire preuve d'imagination / innov pr découv nvlles techs et rep à la demande
+	- 
