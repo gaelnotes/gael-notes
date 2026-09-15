@@ -209,3 +209,11 @@ IDEE DE CONTINUITE AVEC MARX
 - Lenin reprend la logique de concentra°du K
 - L'étend à l'échelle intarna°ale
 
+- La recherche de profits pousse les Kaux versles nvx territoires / marchés
+- L'exp coloniale permet l'accès à des R, des débouchés et une main d'oeuvre moins coûteuse
+- Les bq et grandes instits Fi renforcent leur pv sur les E
+- Les rapp entre pays peuvent devenir des rapp de domination éco
+- Lenin considère que les conflits de classe prennent alors une diminternationale
+
+**K > Expansion> Domination > Conflits**
+
