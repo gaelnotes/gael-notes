@@ -31,7 +31,12 @@ pas de vente pas de profit
 	- notation du patron sur salarié
 	- notation du client sur B/S conso
 - Place du droit / état ds naissance de E moderne
-	- l'unif du marché l'état, en se construisant, en dev son admin, en unifiant son territoire et en facilitant le comm interna°
-	- le droit des sociétés
+	- l'unif du marché l'état, en se construisant, en dev son admin, en unifiant son territoire et en facilitant le comm interna° => fav le commerce
+	- le droit des sociétés : les états ont inventédes status juridiques avec * objectifs : 
+		- 1. Réunir de l'argent "it takes money to make money". Faciliterle rassemblement de Kaux pr créer des sociétés. 
+			- Société = nb de pers qui apportent des Kaux pr créer de grandes entreprises
+		- 2. Protéger les pers qui apportent les Kaux en réduisant le risque pr l'épargne de ces pers. = Société A Responsabilité Limitée (distinction entre  patrimoine personnel et patrimoine de la société)
+	- Place essentielle du droit et de l'état dans la naissance de l'E
+
 
  
