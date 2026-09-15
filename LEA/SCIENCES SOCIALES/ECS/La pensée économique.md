@@ -176,3 +176,15 @@ CRISES DU KLISME
 - Les crises sont vues comme récurrentes et non comme de simples accidents
 
 Passage du féodalisme (prod fondée sur travail des paysans dépendants, soumis à un seigneur qui détient la terre) au Klisme (travailleurs et détenteurs des facteurs de prod) où la prod repose sur la prop priv des moyens de prod
+
+### 2.2 Influence ethéritage du marxisme
+Révolutions, théories de l'impérialisation et débats sur le dev
+- Vladimir Lenin
+- Samir Amin (échange inégal)
+- Amartya Sen (Capabilités et dev humain)
+- Raüt Prebisch (ventre_périphérie)
+/!\ ces auteurs ne sont pas tous marxiste; sont regroupés pr montrer l'élargissement  du débat sur les inégalités et le dev
+
+IMPERIALISME = politique par laquelle un état chercheà étendre sa domination politique / économique / monétaire / militaire sur les autres pays.
+
+
