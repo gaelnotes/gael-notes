@@ -84,4 +84,5 @@ pas de vente pas de profit
 			- factory sysrem permet d'échapper aux corpo, faire jouer la concu entre les pers productrices (rural = moins cher)
 	- La volonté d'unif du marché intérieur;
 	- Le manque de main d'oeuvre qui a naissecité de faire preuve d'imagination / innov pr découv nvlles techs et rep à la demande
+	- <u>EXPLICATION FI</u> : le besoin d'invest : d'où la nécessaire capacité à trouver un système leur permettant de trouver des Kaux. Des organismes vont apparaitre et permettre aux E de trouver facilement ses Kx : un système bq va ainsi se dev en GB.
 	- 
