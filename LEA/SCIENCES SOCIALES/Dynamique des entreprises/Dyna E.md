@@ -91,4 +91,4 @@ pas de vente pas de profit
 		- source d'énergie facile à extraire
 		- très efficace pr la machine à vapeur
 		- -> énergie abondante à pris très bas
-		- 
+=> On constate donc bien une conjonction de facteurs qui ont favorisé le dev de cette révolution et l'essor du Klisme.
