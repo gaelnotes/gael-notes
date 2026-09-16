@@ -82,3 +82,8 @@ Le roi symbolique ne meurt jamais
 
 ### 2. l'Etat
 #### 2.1 Def juridique
+##### 2.1.1 Un territoire
+Pas les mêmes lois appliquées dans un territoire que dans un autre, droit limité par une frontière soit là où s'arrête la souveraineté d'un état.
+
+##### 2.1.2 Une population
+Toutes les personnes vivant sur un territoire sont soumises au droit de cet état.
