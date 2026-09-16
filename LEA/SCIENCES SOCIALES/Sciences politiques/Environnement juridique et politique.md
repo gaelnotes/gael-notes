@@ -64,4 +64,13 @@ policy : l'état agit pr rembourser
 	- l'Autorité repose sur des liens de lignage et sur la religion
 		- Ex: un charactère "sacré" va justifier sadomination au pouvoir
 		- Personnalisation du pouvoir (Ex époque féodale avec terres et souverains)
-	- 
+		- Dynasties : transmission du pv = transmission de la légitimité
+			- Respect de la tradition / de la culture
+			- Mise en scène du pv, ex: maroc, avec hauts  placés qui se prostèrnent devant le roi
+/!\ autorité (exercice du pv sans contrainte) =/= régime autoritaire
+- Domination charismatique
+	- Lié à un individu et plus particulièrement aux qualités exceptionnelles que l'on prête à cet individu.
+		- Exemplaire donc considéré comme chef.
+- Domination légale - rationnelle
+	- Repose sur la confiance qu'inspire la rationnalité des règles.
+- 
