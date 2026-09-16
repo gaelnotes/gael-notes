@@ -73,6 +73,10 @@ policy : l'état agit pr rembourser
 		- Exemplaire donc considéré comme chef.
 - Domination légale - rationnelle
 	- Repose sur la confiance qu'inspire la rationnalité des règles.
+
 Avoir une bureaucratie = avoir une administration publique
 PV exercé par des personnes ayant des fonctions
 Ex: chine avec les mandarins (hauts fonctionnaires sélectionnéspar concours, envoyés très loin de chez eux pr se déconnecter de leur relation et pleinement exercer leur fonction)
+**Roi a deux coprs : un biologique et un symbolique**
+Le roi symbolique ne meurt jamais
+
