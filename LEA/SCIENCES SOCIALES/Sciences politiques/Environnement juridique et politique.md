@@ -87,3 +87,4 @@ Pas les mêmes lois appliquées dans un territoire que dans un autre, droit limi
 
 ##### 2.1.2 Une population
 Toutes les personnes vivant sur un territoire sont soumises au droit de cet état.
+=/= avec empire est que empire est constitué d'un centre politique avec des marges et =/= de statuts juridiques. Hétérogénité entre royaumes autonomes et provinces.
