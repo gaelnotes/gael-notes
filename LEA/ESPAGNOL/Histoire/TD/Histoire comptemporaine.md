@@ -107,4 +107,8 @@ Influenza international importante (birtaniques et américaine)
 	- Monarquia pero monarquia constitucional
 		- Pais no es propriedad (patrimonio) de una familia
 		- Soberania nacional
+- Patria =/= Patrimonio
+	- Patria = Vista politica del pais, + constitucion, la nacion apartene a la poblacio y no una familia
+	- Patrimonio = El pais apartene a una familia
+
 
