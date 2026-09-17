@@ -100,4 +100,11 @@ Influenza international importante (birtaniques et américaine)
 - En Cadiz
 - Libertad de expresion, periodicos discusiones, OPINION PUBLICA
 	- Sede abierta al publico
+		- => Presion social
+- Resultado
+	- Constitucion de 1812 (Constitucion de Cadiz "La Pepa") pepa car diminutif de José = Pepe
+	- Medidas
+	- Monarquia pero monarquia constitucional
+		- Pais no es propriedad (patrimonio) de una familia
+		- Soberania nacional
 
