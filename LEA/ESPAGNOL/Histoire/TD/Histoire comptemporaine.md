@@ -110,5 +110,10 @@ Influenza international importante (birtaniques et américaine)
 - Patria =/= Patrimonio
 	- Patria = Vista politica del pais, + constitucion, la nacion apartene a la poblacio y no una familia
 	- Patrimonio = El pais apartene a una familia
-
-
+- Constitucion 
+	- Abolicion del esclavitud
+		- Igualidad entre territorios de la peninsula y america (fin du régime colonial)
+	- Medidaz avanzadas
+	- Libertad de imprenta (expresion)
+		- Separacion de poderes
+		- 
