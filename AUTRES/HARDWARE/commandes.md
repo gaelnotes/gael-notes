@@ -19,3 +19,4 @@ spicetify apply
 ---
 CURSEFORGE :
 cd ~/Downloads && chmod +x curseforge-latest-linux.AppImage && ./curseforge-latest-linux.AppImage
+

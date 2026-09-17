@@ -61,3 +61,33 @@ José I, apoyado por afrancescados, inicia una serie de reformas
 >-> ejercito imperial, pequenos gruposde rebeles muy autonomos
 >-> guerrillas (petite guerre)
 >-> guerra revoluciana
+
+## 2. Las cortes de cadiz y la constitucion de 1812
+>-> CONTEXTO = guerra de napoleon
+-> Guerra dinastica / religiosa / civil / internacional/ revolucionaria
+-> Lucha contra José Bonaparte  y el ejercicio imperial Frances
+-> Guerrillas -> pequenos grupos mas o menos autonomo
+-> Guerra como ascensor social
+-> Posibilidad de ascenso
+-> experimentacion del sufragio
+
+Chefs des guerrillos élus par suffrage
+Début de la démocratie, cortes (assemblée nationale / parlement)
+Formé à Cadiz en Andalousie
+
+>Guerrillas : Como se organizan ?
+- Politicamente
+	- Eligen a sus proprios jefes
+		- Junta (governo)
+- Con ayuda britanica
+	- Se forma una junta central (o gobierno nacional)
+- Elegidos no solo clases tradicionales tambien de clases populares, incluso mujeres (manuela malasana)
+
+>Junta central
+>-> convoca elecciones para un parliamento
+>-> Cortes
+>-> no por estamentos sociales, sufragio universal (masculino) 
+>-> 1810 : se forma un parliamenti en cadiz
+>=> puerto de contacto con la america latina. Ciudad comercial Burguesia, poco representativa
+
+Influenza international importante (birtaniques et américains)
