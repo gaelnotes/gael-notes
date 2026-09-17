@@ -90,4 +90,14 @@ Formé à Cadiz en Andalousie
 >-> 1810 : se forma un parliamenti en cadiz
 >=> puerto de contacto con la america latina. Ciudad comercial Burguesia, poco representativa
 
-Influenza international importante (birtaniques et américains)
+Influenza international importante (birtaniques et américaine)
+
+>Parlamento
+- Quien lo forma ?
+	- 300 disputados
+	- Gran presencia de militares, sacerdotes (religiosos), calses medias representantes de america latina
+- Entre 1810-1812
+- En Cadiz
+- Libertad de expresion, periodicos discusiones, OPINION PUBLICA
+	- Sede abierta al publico
+
