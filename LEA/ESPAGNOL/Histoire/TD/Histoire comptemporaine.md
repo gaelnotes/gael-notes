@@ -114,6 +114,14 @@ Influenza international importante (birtaniques et américaine)
 	- Abolicion del esclavitud
 		- Igualidad entre territorios de la peninsula y america (fin du régime colonial)
 	- Medidaz avanzadas
-	- Libertad de imprenta (expresion)
+	- Libertad de imprenta (expresion), es una libertad fundamental
 		- Separacion de poderes
-		- 
+	- Pero tambien medidas mas conservadoras
+	- Religion catolica oficial
+		- Estado confesional
+		- Monarquia
+	- Equilibro entre tradicion y cambio
+	- Liberalismo
+		- Canto dura la constitucion?
+			- Final de guerra 1814
+				- Vuelve absolutismo
