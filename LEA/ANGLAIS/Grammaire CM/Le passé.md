@@ -4,6 +4,10 @@ CM3
 	1. when i was studying engineering = prétérit continu
 	2. first job in canada = prétérit simple
 	3. cofounded GreenBridge Solutions in 2016 = prétérit simple
+2. Comparer
+	1. Présenter le contexte / l'arrère plan : Passé continu
+	2. Présenter evènement nouveau: Prétérit simple
+	3. Faire avancer l'histoire : prétérit simple
 ### 1. Les formes
 **Prétérit simple**
 V + ED
@@ -31,4 +35,19 @@ Interro : Was she studying engineering ?
 - Verbes de * syllabes : dépend de l'accent
 	- Happen : happened
 	- Remember : remembered
+
+=/= Brit / americain: 
+Brit : travelled, cancelled
+Americain : traveled, canceled
+
+### 3. Prononciantion
+Du -ed au prétérit : 
+Règle gen : [d]
+Play -> Played
+
+Exceptions :
+Son final en [p], [k], [f],[s].... ->   [t]
+Hop > hopped
+Son en [d] ou [t]
+Decide -> decided
 
