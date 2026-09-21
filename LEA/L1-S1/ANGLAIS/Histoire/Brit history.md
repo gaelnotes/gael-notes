@@ -120,4 +120,3 @@ In the 60s, oil began to be exploited in the North Sea
 => A boon (opportunity) for the SNP (Scottish National Party) (which is rather left winged + Pro EU)
 The party was founded in 1934 but gained momentum (ampleur / vitesse)
 
-
