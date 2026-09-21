@@ -79,3 +79,9 @@ NEXTWEEK : finir les Q + trouver une problématica et déposer sur moodle
 
 >Feudal= orga politica y social
  Feudo= contrato de explotacion, fidelidad del vasallo al donante + servicio militar
+
+Escribir una problematica
+1. ¿Cómo? ¿En qué medida / manera ? ¿Hasta que punto ? (ne pas utiliser ¿Por qué ?)
+2. Autor
+3. El tema / palabras claves (2 o 3 -> nb parties)
+4. Contexto histórico / siglo / fecha

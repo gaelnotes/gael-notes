@@ -45,7 +45,7 @@ Americain : traveled, canceled
 Du -ed au prétérit : 
 Règle gen : [d]
 Play -> Played
-
++
 Exceptions :
 Son final en [p], [k], [f],[s].... ->   [t]
 Hop > hopped
@@ -62,5 +62,9 @@ Used to + verbe = prétérit
 Would + verbe
 
 ### 7. emplois spécifiques
-I wish (contexte prése,t)
+I wish (contexte prése,t) + prétérit
 I wish i <mark style="background:#ff4d4f">were</mark> better
+
+Demande polie
+	I <mark style="background:#ff4d4f">was </mark>wondering if....
+	I <mark style="background:#ff4d4f">was</mark> hoping...
