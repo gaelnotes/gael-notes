@@ -107,7 +107,7 @@ economiser = orga les ressources
 l'o/d déter px marchés
 LEON WALRAS => idée équilibre général entre les diff marchés
 ALFRED MARSHALL => élasticité, surplus conso, équilibre partiel
-![[LEA/SCIENCES SOCIALES/ECS/Pasted image 20260913002634.png]] 
+![[LEA/L1-S1/SCIENCES SOCIALES/ECS/Pasted image 20260913002634.png]] 
 EQUILIBRE ECO
 .                         / \
 Marché travail  |  Marché monnaie

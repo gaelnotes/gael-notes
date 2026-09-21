@@ -1,4 +1,4 @@
-![[LEA/ESPAGNOL/Histoire/TD/Pasted image 20260907213434.png]]
+![[LEA/L1-S1/ESPAGNOL/Histoire/TD/Pasted image 20260907213434.png]]
 ## Desde / despues
 
 | **Categoria**  | **Antigo regimen**     | **Liberalismo politico del siglo 19** |
@@ -39,7 +39,7 @@ METODOLOGIA DEL COMENTARIO
 >5. Conclusion
 >6. Apertura
 
-![[LEA/ESPAGNOL/Histoire/TD/Pasted image 20260914105346.png]]
+![[LEA/L1-S1/ESPAGNOL/Histoire/TD/Pasted image 20260914105346.png]]
 
 =/= 2/3 de mayo
 > ejecuciones masivas durante la noche del dos, levanta del sol el 3, enforza el horror dela ejecucion

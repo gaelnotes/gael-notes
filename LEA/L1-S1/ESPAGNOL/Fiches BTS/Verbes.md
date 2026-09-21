@@ -1,0 +1,5 @@
+![[LEA/L1-S1/ESPAGNOL/Fiches BTS/pasted img/Pasted image 20260907221410.png]]
+![[LEA/L1-S1/ESPAGNOL/Fiches BTS/pasted img/Pasted image 20260907221619.png]]
+![[LEA/L1-S1/ESPAGNOL/Fiches BTS/pasted img/Pasted image 20260907221631.png]]
+![[LEA/L1-S1/ESPAGNOL/Fiches BTS/pasted img/Pasted image 20260907221642.png]]
+![[LEA/L1-S1/ESPAGNOL/Fiches BTS/pasted img/Pasted image 20260907221652.png]]
