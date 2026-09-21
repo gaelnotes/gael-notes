@@ -8,6 +8,7 @@ CM3
 	1. Présenter le contexte / l'arrère plan : Passé continu
 	2. Présenter evènement nouveau: Prétérit simple
 	3. Faire avancer l'histoire : prétérit simple
+3. Au francais : contexte imparfait, détail passé composé
 ### 1. Les formes
 **Prétérit simple**
 V + ED
@@ -51,3 +52,15 @@ Hop > hopped
 Son en [d] ou [t]
 Decide -> decided
 
+### 4 Emploi principal du prétérit simple
+Pr action sit dans le temps / complètement terminée
+Indices : repères temporels (in 2013, last week...)
+
+### 5. Prétérit simple : temps du récit
+### 6. D'autres manières d'expriler le passé
+Used to + verbe = prétérit
+Would + verbe
+
+### 7. emplois spécifiques
+I wish (contexte prése,t)
+I wish i <mark style="background:#ff4d4f">were</mark> better
