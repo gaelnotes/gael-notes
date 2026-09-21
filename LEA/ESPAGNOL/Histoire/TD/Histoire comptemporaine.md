@@ -124,4 +124,4 @@ Influenza international importante (birtaniques et américaine)
 	- Liberalismo
 		- Canto dura la constitucion?
 			- Final de guerra 1814
-				- Vuelve absolutismo
+				- Vuelve absolutivo

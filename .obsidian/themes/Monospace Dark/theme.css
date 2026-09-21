@@ -1,0 +1,1034 @@
+.theme-dark,
+.theme-light{
+
+  /* Obsidian "Dark" import so light mode looks the same*/
+  --color-scheme: dark;
+  --highlight-mix-blend-mode: lighten;
+  --mono-rgb-0: 0, 0, 0;
+  --mono-rgb-100: 255, 255, 255;
+  --color-red-rgb: 251, 70, 76;
+  --color-red: #fb464c;
+  --color-orange-rgb: 233, 151, 63;
+  --color-orange: #e9973f;
+  --color-yellow-rgb: 224, 222, 113;
+  --color-yellow: #e0de71;
+  --color-green-rgb: 68, 207, 110;
+  --color-green: #44cf6e;
+  --color-cyan-rgb: 83, 223, 221;
+  --color-cyan: #53dfdd;
+  --color-blue-rgb: 2, 122, 255;
+  --color-blue: #027aff;
+  --color-purple-rgb: 168, 130, 255;
+  --color-purple: #a882ff;
+  --color-pink-rgb: 250, 153, 205;
+  --color-pink: #fa99cd;
+  --color-base-00: #1e1e1e;
+  --color-base-05: #212121;
+  --color-base-10: #242424;
+  --color-base-20: #262626;
+  --color-base-25: #2a2a2a;
+  --color-base-30: #363636;
+  --color-base-35: #3f3f3f;
+  --color-base-40: #555555;
+  --color-base-50: #666666;
+  --color-base-60: #999999;
+  --color-base-70: #bababa;
+  --color-base-100: #dadada;
+  --color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
+  --color-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+  --color-accent-1: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 3.8%));
+  --color-accent-2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 3.8%));
+  --background-modifier-form-field: var(--color-base-25);
+  --interactive-normal: var(--color-base-30);
+  --interactive-hover: var(--color-base-35);
+  --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
+  --background-modifier-cover: rgba(10, 10, 10, 0.4);
+  --text-selection: hsla(var(--interactive-accent-hsl), 0.25);
+  --input-shadow: inset 0 0.5px 0.5px 0.5px rgba(255, 255, 255, 0.09), 0 2px 4px 0 rgba(0,0,0,.15), 0 1px 1.5px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.2), 0 0 0 0 transparent;
+  --input-shadow-hover: inset 0 0.5px 1px 0.5px rgba(255, 255, 255, 0.16), 0 2px 3px 0 rgba(0,0,0,.3), 0 1px 1.5px 0 rgba(0,0,0,.2), 0 1px 2px 0 rgba(0,0,0,.4), 0 0 0 0 transparent;
+  --shadow-s: 0px 1px 2px rgba(0, 0, 0, 0.121), 0px 3.4px 6.7px rgba(0, 0, 0, 0.179), 0px 15px 30px rgba(0, 0, 0, 0.3);
+  --shadow-l: 0px 1.8px 7.3px rgba(0, 0, 0, 0.071), 0px 6.3px 24.7px rgba(0, 0, 0, 0.112), 0px 30px 90px rgba(0, 0, 0, 0.2);
+  --pdf-shadow: 0 0 0 1px var(--background-modifier-border);
+  --pdf-thumbnail-shadow: 0 0 0 1px var(--background-modifier-border);
+
+  /* Monospace colors*/
+  --background-primary: #171f2b;
+  --background-primary-alt: #333e4f;
+  --background-secondary: #10151d;
+  --background-secondary-alt: #171f2b;
+  --text-normal: #d9dfe7;
+  --text-on-accent: #000000;
+  --text-title-h1: #bd9cfe;
+  --text-title-h2: #ffd395;
+  --text-title-h3: #77d5a3;
+  --text-title-h4: #fd8da3;
+  --text-title-h5: #85cdf1;
+  --text-title-h6: #92a9ff;
+  --canvas-color-1: rgb(253, 141, 163);
+  --canvas-color-2: rgb(255, 211, 149);
+  --canvas-color-3: rgb(255, 178, 86);
+  --canvas-color-4: rgb(119, 213, 163);
+  --canvas-color-5: rgb(133, 205, 241);
+  --canvas-color-6: rgb(189, 156, 254);
+  --text-link: var(--text-accent);
+  --markup-code: #ffd395;
+  --text-tag: #77d5a3;
+  --text-a: #a87ffb;
+  --text-a-hover: #c8aaff;
+  --text-mark: #ffb256;
+  --interactive-accent: #a87ffb;
+  --blockquote-border: #475365;
+  --interactive-accent-rgb: #a87ffb;
+  --accent-h: 260;
+  --accent-s: 94%;
+  --accent-l: 74%;
+  --titlebar-background-focused: var(--titlebar-background);
+
+  /* Monospace Code view*/
+  --code-normal: #D9DFE7;
+  --code-background: #10151D;
+  --monospace-foreground: #D9DFE7;
+  --monospace-keyword: #FD8DA3;
+  --monospace-definition: #BD9CFE;
+  --monospace-number: #92A9FF;
+  --monospace-function: #85CDF1;
+  --monospace-string: #77D5A3;
+}
+
+/* LINKS & BRACKETS */
+
+/* link */
+
+/* url's */
+
+/* editor */
+
+.cm-url {
+  color: var(--text-link);
+}
+
+/* preview */
+
+.external-link {
+  color: var(--text-link);
+}
+
+
+/* make external links italics to differentiate */
+
+a:not(.internal-link) {
+  font-style: italic;
+}
+
+/* horizontal line in preview */
+
+hr {
+  background-color: var(--text-normal);
+  border-color: var(--text-normal);
+}
+
+.markdown-preview-view hr {
+  background-color: var(--text-normal);
+  border-color: var(--text-normal);
+}
+
+.markdown-rendered hr {
+  background-color: var(--text-normal);
+  border-color: var(--text-normal);
+}
+
+.markdown-embed {
+  padding-left: 8px;
+  padding-right: 4px;
+  margin-left: 8px;
+  margin-right: 4px;
+}
+
+/* internal embedded link rendering in preview */
+
+.markdown-embed-title {
+  color: var(--text-link);
+}
+
+
+/* NAKED EMBEDS*/
+
+/* But keeping Border and Scroll! */
+
+.markdown-embed-title {
+  display: none;
+}
+
+.markdown-preview-view .markdown-embed-content > :first-child {
+  margin-top: 0;
+}
+
+.markdown-preview-view .markdown-embed-content > :last-child {
+  margin-bottom: 0;
+}
+
+
+.markdown-embed-link {
+  color: var(--text-a);
+  right: 2px;
+}
+
+.markdown-embed-link:hover {
+  color: var(--text-link);
+}
+
+/* NO FILE OPEN PAGE*/
+
+.empty-state-title {
+  color: var(--text-title-h1);
+}
+
+.empty-state-action {
+  color: var(--text-muted);
+}
+
+.empty-state-action:hover {
+  color: var(--text-normal);
+}
+
+/* GRAPH VIEW */
+
+#graph-view-canvas .links {
+  stroke: var(--interactive-accent-rgb);
+}
+
+/* CODEBLOCKS */
+
+
+/* code blocks in preview */
+
+pre code {
+  padding: 5px;
+  color: var(--monospace-foreground);
+  line-height: normal;
+  display: block;
+  background-color: var(--background-primary);
+}
+
+.markdown-preview-view pre {
+  padding: 0px;
+}
+
+/* in-line code for editor and preview and code block for editor*/
+
+.cm-inline-code {
+  background-color: var(--background-primary-alt);
+  color: var(--monospace-foreground);
+  bottom: 0px;
+}
+
+/* Code Appearance */
+
+/* Preview */
+
+code {
+  background-color: var(--background-primary);
+  color: var(--monospace-foreground);
+}
+
+.token.function {
+  color: var(--monospace-definition);
+}
+
+.token.operator {
+  color: var(--monospace-keyword);
+}
+
+.token.number {
+  color: var(--monospace-number);
+}
+
+.token.builtin {
+  color: var(--monospace-function);
+}
+
+.token.boolean {
+  color: var(--monospace-number);
+}
+
+.token.string {
+  color: var(--monospace-string);
+}
+
+/* BLOCKQUOTES */
+
+/* editor */
+
+.cm-quote {
+  color: var(--interactive-accent);
+  font-style: italic;
+}
+
+/* preview */
+
+blockquote {
+  color: var(--interactive-accent);
+  font-style: italic;
+  border-color: var(--blockquote-border);
+}
+
+/* IMAGES */
+
+/* embedded images */
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* TABLES */
+
+th {
+  border: 1px solid var(--background-primary-alt);
+}
+
+td {
+  border: 1px solid var(--background-primary-alt)
+}
+
+thead {
+  border-bottom: 4px solid var(--background-primary-alt);
+}
+
+.table {
+  background-color: var(--background-secondary-alt);
+  border: 1px solid var(--background-primary-alt);
+  padding: 4px;
+  line-height: normal;
+  display: block;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+
+/* SIDEBAR & DOCK ETC. */
+
+/* view action buttons */
+
+.view-action {
+  color: var(--text-muted);
+  text-decoration: none;
+}
+
+.view-action:hover,
+.view-action.is-active {
+  color: var(--text-normal);
+}
+
+.status-bar {
+  background-color: var(--background-secondary-alt);
+}
+
+.side-dock-ribbon-action {
+  color: var(--text-muted);
+}
+
+.side-dock-ribbon-action:hover {
+  color: var(--text-normal);
+}
+
+.workspace-tab-header {
+  color: var(--text-muted);
+  text-decoration: none;
+}
+
+.workspace-tab-header:hover {
+  color: var(--text-normal);
+}
+
+button.mod-cta {
+    background-color: var(--interactive-accent);
+    color: var(--text-on-accent);
+}
+
+.horizontal-tab-nav-item.is-active, .vertical-tab-nav-item.is-active {
+  background-color: var(--interactive-accent);
+  color: var(--text-normal);
+}
+
+/* searchbar */
+
+.side-dock-panels-container {
+  background-color: var(--background-secondary-alt);
+  color: var(background-secondary-alt);
+}
+
+/* icons at top of panes*/
+
+.file-view-actions a {
+  color: var(--text-muted);
+}
+
+.file-view-actions a:hover {
+  color: var(--text-muted);
+}
+
+/* html tags in editor */
+
+.cm-tag {
+  color: var(--text-tag);
+}
+
+/* .side-dock-ribbon-tab,
+.side-dock-ribbon-action {} */
+
+.side-dock-ribbon-tab.is-active {
+  color: var(--interactive-accent);
+}
+
+.side-dock-ribbon-tab.is-active .side-dock-ribbon-tab-inner:hover {
+  color: #8b98a9;
+  background-color: var(--background-secondary);
+}
+
+
+.is-translucent .nav-file-title:not(.is-active) {
+  background-color: transparent;
+}
+
+.is-translucent .nav-folder-title {
+  background-color: transparent;
+}
+
+.nav-file-title:hover {
+  color: var(--text-normal);
+}
+
+.nav-folder-title:hover {
+  color: var(--text-normal);
+}
+
+.nav-action-button.is-active {
+  background-color: var(--background-secondary-alt);
+}
+
+.search-result-file-title {
+  color: var(--text-a);
+  background-color: var(--background-secondary);
+}
+
+.is-translucent .search-result-file-title {
+  background-color: transparent;
+}
+
+.search-result-file-matched-text {
+  color: var(--text-link);
+  background-color: var(--background-secondary);
+}
+
+/* .nav-file-tag {
+  color: #59a2c5;
+  } /* for the PNG text, but can't specifically target "PNG", just all of those filetype tags. */
+
+.nav-file.is-active .nav-file-tag {
+  color: var(--text-normal);
+}
+
+/* hover actions on side dock navigation */
+
+.side-dock-ribbon-tab:hover,
+.side-dock-ribbon-tab-inner:hover,
+.side-dock-ribbon-action:hover,
+.side-dock-ribbon-action.is-active:hover,
+.nav-action-button:hover,
+.side-dock-collapse-btn:hover {
+  color: var(--text-normal);
+}
+
+/* Hover color over tree item flairs */
+.tree-item-self:hover .tree-item-flair {
+  background-color: var(--background-secondary);
+}
+
+/* clean up side bar empty state (e.g. unlinked mentions) */
+
+.search-empty-state {
+  width: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  line-height: normal;
+}
+
+/* clean up side bar empty state (e.g. unlinked mentions) */
+
+.search-empty-state {
+  width: auto;
+  padding-left: 10px;
+  padding-right: 5px;
+  line-height: normal;
+}
+
+/* NORMAL TEXT OUTSIDE OF HEADINGS AND CODE */
+
+/* preview */
+
+.markdown-preview-view {
+  color: var(--text-normal);
+  padding-left: 8%;
+  padding-right: 4%;
+}
+
+.mod-single-child .markdown-preview-view {
+  color: var(--text-normal);
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+/* editor */
+
+.cm-s-obsidian {
+  color: var(--text-normal);
+  padding-left: 8%;
+  padding-right: 4%;
+}
+
+.mod-single-child .cm-s-obsidian {
+  color: var(--text-normal);
+  padding-left: 8%;
+  padding-right: 4%;
+}
+
+/* HEADINGS */
+
+/* preview */
+
+.markdown-preview-view h1 {
+  color: var(--text-title-h1);
+}
+
+.markdown-preview-view h2 {
+  color: var(--text-title-h2);
+}
+
+.markdown-preview-view h3 {
+  color: var(--text-title-h3);
+}
+
+.markdown-preview-view h4 {
+  color: var(--text-title-h4);
+}
+
+.markdown-preview-view h5 {
+  color: var(--text-title-h5);
+}
+
+.markdown-preview-view h6 {
+  color: var(--text-title-h6);
+}
+
+/* editor */
+
+.cm-header-1 {
+  color: var(--text-title-h1);
+}
+
+.cm-header-2 {
+  color: var(--text-title-h2);
+}
+
+.cm-header-3 {
+  color: var(--text-title-h3);
+}
+
+.cm-header-4 {
+  color: var(--text-title-h4);
+}
+
+.cm-header-5 {
+  color: var(--text-title-h5);
+}
+
+.cm-header-6 {
+  color: var(--text-title-h6);
+}
+
+/* TAGS */
+
+/* preview */
+
+a.tag {
+  color: var(--text-tag);
+}
+
+/* editor */
+
+.cm-hashtag {
+  color: var(--text-tag);
+}
+
+/* BOLD */
+
+/* preview */
+
+strong {
+  color: var(--markup-code);
+}
+
+/* editor */
+
+.cm-strong {
+  color: var(--markup-code);
+}
+
+/* ITALICS */
+
+/* preview */
+
+em {
+  color: var(--interactive-accent);
+}
+
+/* editor */
+
+.cm-em {
+  color: var(--interactive-accent);
+}
+
+/* HIGHLIGHT */
+
+/* preview */
+
+mark {
+  color: var(--background-primary);
+  background-color: var(--text-mark);
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+/* editor */
+
+.cm-highlight {
+  color: var(--background-primary);
+  background-color: var(--text-mark);
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+/* COLLAPSED RIBBONS */
+
+.workspace-ribbon.is-collapsed {
+  background-color: var(--background-secondary-alt);
+}
+
+.workspace-ribbon.mod-right.is-collapsed {
+  background-color: var(--background-secondary-alt);
+}
+
+.workspace-ribbon.mod-left.is-collapsed {
+  background-color: var(--background-secondary-alt);
+}
+
+/* POPUP NOTIFICATION*/
+
+.notice {
+  color: var(--text-normal);
+  background-color: var(--blockquote-border);
+}
+
+/* UL, OL, BULLETS, CHECKBOXES & FOLDING ARROWS */
+
+/* task lists */
+
+.markdown-preview-view .task-list-item-checkbox {
+  -webkit-appearance: none;
+  top: 1.3px;
+  right: 5px;
+  box-sizing: border-box;
+  border: 1px solid var(--accent-2);
+  position: relative;
+  width: 1.25em;
+  height: 1.25em;
+  margin: 0;
+  box-shadow: 0 0 0.1em var(--interactive-accent);
+}
+
+.markdown-preview-view .task-list-item-checkbox:checked::before {
+  content: "✓";
+  position: absolute;
+  color: var(--interactive-accent);
+  line-height: 1.25em;
+  width: 1.2em;
+  text-align: center;
+  text-shadow: 0 0 0.5em var(--accent-2);
+}
+
+.markdown-preview-view .task-list-item-checkbox {
+  top: 0px;
+}
+
+.checkbox-container {
+  background-color: var(--background-primary-alt);
+  border-radius: 14px;
+  display: inline-block;
+  position: relative;
+  top: 4px;
+  user-select: none;
+  width: 42px;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.15);
+  transition: background 0.15s ease-in-out, box-shadow 0.15s ease-in-out,
+    border 0.15s ease-in-out, opacity 0.15s ease-in-out,
+    -webkit-box-shadow 0.15s ease-in-out;
+}
+
+.checkbox-container.is-enabled {
+  background-color: var(--interactive-accent);
+}
+
+
+.markdown-preview-view mark {
+  color: var(--text-link);
+  background-color: var(--background-primary-alt);
+}
+
+.cm-formatting
+/* This is the color of header hashtags. Don't change. */
+
+.cm-formatting-list-ul .cm-list-1
+/* This is the color of text in lists. Don't change. */
+
+
+/* Bullet Point Relationship Lines */
+
+.cm-hmd-list-indent .cm-tab,
+ul ul {
+  position: relative;
+}
+
+.cm-hmd-list-indent .cm-tab::before,
+ul ul::before {
+  content: "";
+  border-left: 1px solid;
+  color: #85cdf1;
+  position: absolute;
+}
+
+.cm-hmd-list-indent .cm-tab::before {
+  left: 0;
+  top: -5px;
+  bottom: -4px;
+}
+
+ul ul::before {
+  left: 0px;
+  top: 0;
+  bottom: 0;
+}
+
+ol {
+  display: block;
+  list-style-type: decimal;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+.suggestion-highlight {
+  color: var(--interactive-accent);
+}
+
+.is-selected {
+  background-color: var(--blockquote-border);
+}
+
+@media print {
+  @page {
+    margin: 0mm 0mm 0mm 0mm;
+  }
+
+  /* PDF / print export: render a clean white document instead of the dark
+     UI background. The theme's palette is light-on-dark, so every color that
+     relied on the dark canvas is remapped here to a dark-on-white equivalent
+     that keeps the same hue identity (purple H1, amber H2/bold, green tags,
+     etc.). Colors cascade via the CSS variables wherever possible. */
+  .print,
+  .print .markdown-preview-view,
+  .print .markdown-rendered {
+    /* Opt out of the theme's forced dark color-scheme so Chromium's print
+       renderer composites onto white instead of dropping tinted layers. */
+    color-scheme: light;
+
+    --background-primary: #ffffff;
+    --background-primary-alt: #ffffff;
+    --background-secondary: #f7f7f7;
+    --background-secondary-alt: #f2f2f2;
+
+    --table-border-color: #d0d0d0;
+    --table-header-background: #f0f0f0;
+    --table-header-background-hover: #f0f0f0;
+    --table-background: #ffffff;
+    --table-row-background-hover: #ffffff;
+    --table-row-alt-background: #fafafa;
+    --table-row-alt-background-hover: #fafafa;
+    --table-text-color: #1a1a1a;
+    --table-header-color: #1a1a1a;
+
+    --text-normal: #1a1a1a;
+    --text-muted: #55595f;
+    --text-faint: #8a8f96;
+    --text-on-accent: #ffffff;
+
+    --text-title-h1: #6d3fd0;
+    --text-title-h2: #9a6a00;
+    --text-title-h3: #1a8f52;
+    --text-title-h4: #c83a5c;
+    --text-title-h5: #1f7fb8;
+    --text-title-h6: #3f52c8;
+
+    --text-accent: #6d3fd0;
+    --text-accent-hover: #582fb0;
+    --text-link: #6d3fd0;
+    --link-color: #6d3fd0;
+    --link-external-color: #6d3fd0;
+    --link-unresolved-color: #8a5fd8;
+    --text-a: #6d3fd0;
+    --text-a-hover: #582fb0;
+
+    --interactive-accent: #6d3fd0;
+    --markup-code: #9a6a00;
+    --text-tag: #1a8f52;
+    --blockquote-border: #c3b1e8;
+
+    --code-normal: #1a1a1a;
+    --code-background: #f4f4f4;
+    --monospace-foreground: #1a1a1a;
+    --monospace-keyword: #b23a5a;
+    --monospace-definition: #7b3fd0;
+    --monospace-number: #2f4fc0;
+    --monospace-function: #1f7fb8;
+    --monospace-string: #1a8f52;
+  }
+
+  /* Make sure backgrounds and borders actually print, and kill the global
+     `lighten` blend mode, which renders as pure white over a white page and
+     was wiping out callouts and washing out table text. */
+  .print,
+  .print * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    mix-blend-mode: normal !important;
+  }
+
+  .print .markdown-preview-view {
+    background-color: #ffffff;
+    color: #1a1a1a;
+  }
+
+  /* Code: light panel with a subtle border instead of the dark fill. */
+  .print pre,
+  .print pre code {
+    background-color: #f4f4f4 !important;
+    color: #1a1a1a;
+  }
+
+  .print pre {
+    border: 1px solid #e2e2e2;
+  }
+
+  .print :not(pre) > code {
+    background-color: #f0f0f0 !important;
+    border: 1px solid #e6e6e6;
+    color: #1a1a1a;
+  }
+
+  /* Syntax highlighting: the theme only recolors a few token types and leaves
+     the rest on Obsidian's light-on-dark Prism defaults (the salmon keywords
+     and pale-yellow class names). Remap the full set to dark-on-white. */
+  .print .token.keyword,
+  .print .token.operator,
+  .print .token.tag,
+  .print .token.selector,
+  .print .token.important,
+  .print .token.atrule {
+    color: #b23a5a !important;
+  }
+
+  .print .token.function,
+  .print .token.class-name,
+  .print .token.maybe-class-name,
+  .print .token.function-variable {
+    color: #7b3fd0 !important;
+  }
+
+  .print .token.number,
+  .print .token.boolean,
+  .print .token.constant,
+  .print .token.symbol,
+  .print .token.property,
+  .print .token.attr-name {
+    color: #2f4fc0 !important;
+  }
+
+  .print .token.builtin {
+    color: #1f7fb8 !important;
+  }
+
+  .print .token.string,
+  .print .token.char,
+  .print .token.attr-value,
+  .print .token.regex,
+  .print .token.url {
+    color: #1a8f52 !important;
+  }
+
+  .print .token.punctuation {
+    color: #3a3f45 !important;
+  }
+
+  .print .token.comment,
+  .print .token.prolog,
+  .print .token.doctype,
+  .print .token.cdata {
+    color: #6a737d !important;
+  }
+
+  /* Highlight: dark text on a pale amber wash (the default rule would leave
+     it as light text on a white background = invisible). */
+  .print mark,
+  .print .markdown-preview-view mark {
+    color: #1a1a1a !important;
+    background-color: #ffe9c7 !important;
+  }
+
+  /* Tables: dark text on white with visible light borders (the theme's cell
+     text was inheriting a washed-out color in the export). */
+  .print table,
+  .print thead,
+  .print tbody,
+  .print tr,
+  .print th,
+  .print td,
+  .print .table {
+    color: #1a1a1a !important;
+    background-color: #ffffff !important;
+    border-color: #d0d0d0 !important;
+  }
+
+  .print th,
+  .print td {
+    border: 1px solid #d0d0d0 !important;
+  }
+
+  .print th {
+    background-color: #f0f0f0 !important;
+  }
+
+  .print thead {
+    border-bottom: 3px solid #c0c0c0 !important;
+  }
+
+  .print .table {
+    border: 1px solid #d0d0d0 !important;
+  }
+
+  /* Callouts: the theme leaves these on Obsidian defaults, whose faint
+     rgba tints and light accent colors disappear on white. Give each type a
+     readable dark accent and a light wash that survives PDF rendering. */
+  .print .callout {
+    --callout-color: 90, 90, 90;
+    background-color: rgba(var(--callout-color), 0.08) !important;
+    border: 1px solid rgba(var(--callout-color), 0.4) !important;
+    color: #1a1a1a !important;
+    opacity: 1 !important;
+  }
+
+  .print .callout[data-callout="note"],
+  .print .callout[data-callout="info"] {
+    --callout-color: 31, 111, 184;
+  }
+
+  .print .callout[data-callout="abstract"],
+  .print .callout[data-callout="summary"],
+  .print .callout[data-callout="tldr"],
+  .print .callout[data-callout="tip"],
+  .print .callout[data-callout="hint"],
+  .print .callout[data-callout="important"] {
+    --callout-color: 15, 122, 122;
+  }
+
+  .print .callout[data-callout="success"],
+  .print .callout[data-callout="check"],
+  .print .callout[data-callout="done"] {
+    --callout-color: 26, 143, 82;
+  }
+
+  .print .callout[data-callout="question"],
+  .print .callout[data-callout="help"],
+  .print .callout[data-callout="faq"],
+  .print .callout[data-callout="warning"],
+  .print .callout[data-callout="caution"],
+  .print .callout[data-callout="attention"] {
+    --callout-color: 176, 106, 0;
+  }
+
+  .print .callout[data-callout="failure"],
+  .print .callout[data-callout="fail"],
+  .print .callout[data-callout="missing"],
+  .print .callout[data-callout="danger"],
+  .print .callout[data-callout="error"],
+  .print .callout[data-callout="bug"] {
+    --callout-color: 194, 58, 88;
+  }
+
+  .print .callout[data-callout="example"] {
+    --callout-color: 123, 63, 208;
+  }
+
+  .print .callout-title {
+    background-color: transparent !important;
+    color: rgb(var(--callout-color)) !important;
+  }
+
+  .print .callout-title-inner {
+    color: rgb(var(--callout-color)) !important;
+  }
+
+  .print .callout-icon,
+  .print .callout-icon svg {
+    color: rgb(var(--callout-color)) !important;
+  }
+
+  .print .callout-content,
+  .print .callout-content > * {
+    color: #1a1a1a !important;
+  }
+
+  /* Horizontal rule. */
+  .print hr,
+  .print .markdown-preview-view hr,
+  .print .markdown-rendered hr {
+    background-color: #cfcfcf !important;
+    border-color: #cfcfcf !important;
+  }
+
+  /* Nested-list relationship lines. */
+  .print .cm-hmd-list-indent .cm-tab::before,
+  .print ul ul::before {
+    color: #c9c9c9 !important;
+  }
+
+  /* Task checkboxes. */
+  .print .markdown-preview-view .task-list-item-checkbox {
+    border: 1px solid #6d3fd0 !important;
+    box-shadow: none !important;
+  }
+
+  .print .markdown-preview-view .task-list-item-checkbox:checked::before {
+    color: #6d3fd0 !important;
+    text-shadow: none !important;
+  }
+
+  /* Tag pills. */
+  .print a.tag {
+    color: #1a8f52 !important;
+    background-color: #eef3ee !important;
+  }
+}
