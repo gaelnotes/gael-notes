@@ -60,4 +60,64 @@ to pertain = concerner
 52% of Brits voted for Brexit in 2016, 48% against it
 Everyone in the UK but the english wanted to actually stay
 
+## 4. Devolution (=/= independence)
+
+Devolution = transfer of some political power from the UK parliament to assemblies or parliaments in the home nations.
+
+Parliament in Scotland :  Holyrood, Edinburgh
+Parliament in Wales : The Senedd (pronounced senesh), Cardiff
+Parliament in Nothern Ireland : Stormont, Belfast
+
+Is it the transfer of all sorts of political power ?(no)
+Devolution only means the surrender of some powers to local authorites by a central government.
+
+Ex : Ed and health handled by scotland with education Scotland or Health Scotland, same for Wales with Education wales
+
+Devolved Powers = 
+- Ed
+- Health
+- Biz & employment
+- Environnemental policy
+- Transport
+- Police Forces
+- etc
+
+But there's no such thing as the ~~Scottish army, welsh ministry of foreign affairs or scottish home office.~~
+Decisions abt foreign policy, war & immigration are made in the British Parliament (Westminster, London) = reserved powers.
+Consequently, devolution means autonomy within the union.
+
+There's no ~~English Parliament or Assembly~~... It is the UK Parliament. => Westminster.
+First minister in Scotland = John Swinney (scottish national party) (=/= PRIME minister).
+Welsh First Minister (not prime minister) Rhun ap Iorwerth (Plaid Cymru).
+Nothern Ireland First minister :  Michelle O'Neill (Sinn Fein).
+UK Prime Minister : Andy Burnham (Labour Party).
+
+No ~~English Prime/First Minister~~ = The UK / British Prime Minister 
+
+How did the UK get there ?
+
+### 1. Scottish and Welsh nationalism
+Why is Wales part of the Union ?
+Under English control since 13th century
+In 1536 Wales was absorbed in the English Kingdom (Act of Union)
+=> Cultural Nationalism
+- Plaid Cymru was founded in 1925 but dev as a political force un the 60s
+- More unterested in preserving Welsh culture / language
+- Usually pro EU and left leaning
+- Recently more calls for independence
+
+The situation in Scotland is very different: 
+1296 - King Edwards I of Englend tried to invade Scotland
+= Scottish knight William Wallace ledto war of independence
+-> inspired braveheart (w/ mel gibson)
+WW's torture contributed to a surge of nationalism but the Anglo Scottish treaty of Perpetual Peace was signed in 1502.
+1603 - King James of Scotland also became the King of England.
+
+Late 17th - Scotland tried to become a colonial Empire. (failed)
+To avoid bankruptcy and for trading opportunites within the British empire = Act of Union 1707 = A head over heart decision.
+
+In the 60s, oil began to be exploited in the North Sea
+=> A boon (opportunity) for the SNP (Scottish National Party) (which is rather left winged + Pro EU)
+The party was founded in 1934 but gained momentum (ampleur / vitesse)
+
 
