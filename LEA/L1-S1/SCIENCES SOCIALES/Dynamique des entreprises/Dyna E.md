@@ -131,4 +131,7 @@ Video dessine moi l'éco =/= emprunts
 	- 3eme exp : des activ indus se dev qui demandent bcp de Kx (impossible avec les PME) et les grd E ont besoin de bcp de Kx / Fi. Faut trouver des actionnaires / associés
 	- 4eme exp :La revolution indus se fait d'abord en Belgique, GB, France. Les autres pays prennent du retard, parfois 40ans. Pr rattraper ce retard rapidement,fort phénomene de concentration. PK ? Pr etre compétitifn faut tt de suite etre en sit de prod bcp, et lutter à armes égales
 	- => Raisons du processus de cencentration danss les pays à la fin du 19eme.
-
+- =/= types de concentration : = mesurer la concentration de =/= manières
+	- Concentration technique : concentration produite au niveau des ateliers / usines -> ateliers de + en + grd (+ de machines et + de personnes réunies pr travailler ensemble)
+	- Concentration économique : concentration au niveau de l'E -> une E va avoir * localisations, * usines, * ateliers, y compris à l'étranger, etc...
+	- Concentration Fi : formation de groupes d'E (multinationales) = E qui ont des relations Fi entre elles : une "société mère" qui possèdent des "filiales". C'est donc l'ensemble des E dont  les liens sont Fi.
