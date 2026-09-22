@@ -101,4 +101,23 @@ pas de vente pas de profit
 		- système de libre échange: liberté de circul des marchandises.
 		- système protectionnistes: contraire du libre échange, mep de barrières à l'entrée, pr protéger les pdts nationaux (taxes, etc.)
 	- Or c'est l'étatqui choisit entre les 2, d'où un nouveau rôle de l'état (idem avec contruction d'infrastructures)
-	- 
+	- Grappe d'innovations: les innov (pdt ou procédé) n'apparaissent pas de manière linéaire. Souvent * innovs apparaissent en meme temps "en grappes"
+	- Analogie avec notre époque: certains pensent notre époque ressemble à ce 19eme sciecle pcq bcp d'innovs techno liéesà l'informatique vont générer ce chgt radical de la société (comme la machine à vapeur, l'élec, ou le moteur à explosion avec le pétrole plus tard), qui ont changé la face du monde.
+
+Video dessine moi l'éco =/= emprunts
+(Cours BTS montage Fi)
+
+- Comment les dirigeants peuvent-ils trouver les Fi dont ils ont besoin ?
+	- Grâce à l'emprunt, qui peut prendre plusieurs formes :
+		- Un prêt bq tradi : le plus svt limité au montant apporté par le dirigeant dans sa société
+		- Un prêt d'honneurou avance remboursable : Proposé par exemple par une région ou une instit, svt à un faible tx d'intérêt.
+			- Un emprunt obligataire émis par l'E : Une obligation est une somme prêtéeà une E par un particulier ou un organisme contre intérêt.
+	- Grâce à l'émission d'actions : Lorsque l'E vend une partie de son K, càd une partie d'elle même. L'acheteur a 2 motivations :
+		- Il espère que les résultats de l'E permettront de lui verser des dividendes
+		- Il espèreégalement revendre ses actions à un px plus élevé que celui auquel il les a achetées
+	- La vente d'actions peut se faire auprès de marchers boursiers. L'E doit publier régulièrement des infos sur sa santé Fi. Doit également recruter pers spé ou faire appel à un cabinet extérieur, cequi représente un coût important.
+	- La vente d'actions peut se faire directement auprès d'investisseurs. = K d'investissement. Existe =/= types, aux =/= stades de la vie de l'E
+		- K d'amorçage : Love money
+		- K risque : business angels
+		- Le K dev : pr E déjà rentables qui ont besoin d'invest pr devleur activité / accélérer leur croissance (en s'implantant à l'étranger par ex).
+
