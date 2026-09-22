@@ -138,4 +138,10 @@ Video dessine moi l'éco =/= emprunts
 - Une autre distinction existe :
 	- Concentration horizontale : logique de contrôle du marché -> concentration pour contrôler un plus grand marché : parts de marché de plus en plus importante 10%, 20 %, 30% (logique commerciale)
 	- Concentration verticale : logique de prod -> contrôle des =/= étapes de la prod (ex : du fr aux cients; de la fourche à la fourchette)
-	- 
+
+- Le Klisme Allemand "véritable empire industriel"
+	- "Empire" : pr insister sur la taille très importante des Edans l'indus. 2 types d'orga de l'E en Allemagne :
+		- Les cartels : horizontal
+		- Les knozern = vertical
+	- Le Klisme allemand à la fin du 19emeest extrèmement concentr, du fait notamment de la fusion entre K bq et K indus : de grd E ont été créées pr prod dans l'indus, d'où un besoin de Fi important dû à leur taille
+	- Encore ajd, la force du Klisme allemand c'est que les bq ne se contentent plus de prêter, elles entrent dans le Klisme de l'E ->lorsque l'E demande à une bq un prêt, la bq faisa,t partie des actionnaires, elle a confiance.
