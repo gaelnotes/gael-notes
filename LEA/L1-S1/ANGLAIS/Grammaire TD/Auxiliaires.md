@@ -42,14 +42,37 @@ Au présent simple
 	- <font color="#2DC26B">She isn't writing</font>
 
 ### 2. Contextes d'utilisation
-- Présent simple
+- Présent simple = 
 	- <u>Vérités permanentes</u>
 		- <font color="#2DC26B">O</font> - Water boil<mark style="background:#ff4d4f">s</mark> at 100°C.
 	- <u>Habitudes, valeurs fréquentatives, description d'objet</u>
 		- <font color="#2DC26B">O</font> - He wakes up at 6:00am <u>every morning</u>
-- Présent continu (-ing)
+- Présent continu (-ing) =
 	- <u>Actions en cours de déroulement</u> (être en train de....)
 		- <font color="#2DC26B">O</font> - Look ! He is sleeping.
 	- <u>Action temporaire, ponctuelle</u> (now, currently, this week, today, this year...)
 		- <font color="#2DC26B">O</font> - You're working hard today. =/= prez simple : You work hard.
 
+Prétérit
+Simple : temps du récit, action passée / révolue
+X .... ago
+Prog > be + v-ing = action en cours dans le passé,
+while / when...was working...someone called
+When jim arrived, we had dinner                 > après son arrivée
+When jim arrived, we were  having dinner > en cours, pdt son arrivée
+he was writing > was he writing > no he wasn't writing
+QT : polarité
++>- he did... didn't he ?
+->+ he didn't... did he ?
+
+V qui ne se mettent jamais en be + ing
+want
+mean
+realize
+need
+understand
+believe
+remember
+seem
+depend
+think : sens penser / croire     /!\  sens envisager de/ intention de, +ing =ok
