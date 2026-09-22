@@ -149,3 +149,5 @@ Video dessine moi l'éco =/= emprunts
 - Les causes du retard Fr : les causes de la faiblesse des grd E Fr, relèvent d'un double pb : 
 	- Pb juridique : Interdiction des SA jusqu'en 1867, bien après la GB -> statut juridique permettant les société de K. De ce fait, peu de concentration de Kx, - grd E = frein au dev du Klisme Fr.
 	- Pb culturel : méfiance vis à vis de l'argent, valorisation de la famille. Donc le Klisme Fr, on s'associe - à des actionnaires inconnus. A quelques exceptions près, de grd familles qui sont très riches. -> Klisme familial ne pourra pas rivaliser avec les grd E allemandes / américaines (ne réuniront pas assez de Kx.)
+- Ainsi, même si la rev indus commence en Fr avant, l'allemagne va rattraper son retard grâce à une indus qui se concentre + vite, réunissant bcp de Kx, investissantet innovant davantage.
+- -> Cela va donner lieu à une faiblesse du Klisme Fr, et un retard indus Fr que l'on voit très clairement en 1939 -40 où on constate que l'indus allemande est bcp+ perf que l'indus Fr.
