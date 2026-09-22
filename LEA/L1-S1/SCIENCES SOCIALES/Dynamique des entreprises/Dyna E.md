@@ -110,7 +110,7 @@ Video dessine moi l'éco =/= emprunts
 - Comment les dirigeants peuvent-ils trouver les Fi dont ils ont besoin ?
 	- Grâce à l'emprunt, qui peut prendre plusieurs formes :
 		- Un prêt bq tradi : le plus svt limité au montant apporté par le dirigeant dans sa société
-		- Un prêt d'honneurou avance remboursable : Proposé par exemple par une région ou une instit, svt à un faible tx d'intérêt.
+		- Un prêt d'honneur ou avance remboursable : Proposé par exemple par une région ou une instit, svt à un faible tx d'intérêt.
 			- Un emprunt obligataire émis par l'E : Une obligation est une somme prêtéeà une E par un particulier ou un organisme contre intérêt.
 	- Grâce à l'émission d'actions : Lorsque l'E vend une partie de son K, càd une partie d'elle même. L'acheteur a 2 motivations :
 		- Il espère que les résultats de l'E permettront de lui verser des dividendes
@@ -120,4 +120,6 @@ Video dessine moi l'éco =/= emprunts
 		- K d'amorçage : Love money
 		- K risque : business angels
 		- Le K dev : pr E déjà rentables qui ont besoin d'invest pr devleur activité / accélérer leur croissance (en s'implantant à l'étranger par ex).
-
+- Une nouvelle forme de Fi est apparue récemment :
+	- Le crowdfunding = Fi participatif (actions, prêts, dons...)
+	- => Que ce soit par l'emprunt ou l'émission  d'actions, les E disposent de * possibilités en f() des sommes dont elles ont besoi,, de leur strat ou encore de leur taille.
