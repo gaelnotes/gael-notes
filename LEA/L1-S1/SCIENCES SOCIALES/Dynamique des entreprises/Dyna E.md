@@ -123,3 +123,8 @@ Video dessine moi l'éco =/= emprunts
 - Une nouvelle forme de Fi est apparue récemment :
 	- Le crowdfunding = Fi participatif (actions, prêts, dons...)
 	- => Que ce soit par l'emprunt ou l'émission  d'actions, les E disposent de * possibilités en f() des sommes dont elles ont besoi,, de leur strat ou encore de leur taille.
+
+- La concentration des E : =aug de lataille de l'E càd que onvoit lesE devenir de +en+ grd.
+- Les causes de la concentration des E au 19eme : 
+	- 1ere explication pcq les activités indus necessitent bsp de Kx
+	- 2eme exp : crise : grande dépression, entreprises fragiles= moins d'E
