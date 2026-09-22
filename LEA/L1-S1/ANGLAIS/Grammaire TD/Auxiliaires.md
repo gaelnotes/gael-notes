@@ -76,3 +76,14 @@ remember
 seem
 depend
 think : sens penser / croire     /!\  sens envisager de/ intention de, +ing =ok
+
+When Kate called, we discussed the problem.
+Lorsque Kate a appelé, nous avons discuté du problème.
+
+When the manager came into the office, we were talking about the new project.
+Nous étions en train de parler / nous parlions du nouveau projet quand le directeur est entré dans le bureau
+
+I had a meeting with the shareholders three days ago
+J'ai eu une réunion avec les actionnaires il y a 3 jours.
+
+ 
