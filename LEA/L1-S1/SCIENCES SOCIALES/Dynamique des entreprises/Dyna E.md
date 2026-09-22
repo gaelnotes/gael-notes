@@ -127,7 +127,8 @@ Video dessine moi l'éco =/= emprunts
 - La concentration des E : =aug de lataille de l'E càd que onvoit lesE devenir de +en+ grd.
 - Les causes de la concentration des E au 19eme : 
 	- 1ere explication pcq les activités indus necessitent bsp de Kx
-		- 2eme exp : crise : grande dépression, entreprises fragiles= moins d'E
+	- 2eme exp : crise : grande dépression, entreprises fragiles= moins d'E
+	- 3eme exp : des activ indus se dev qui demandent bcp de Kx (impossible avec les PME) et les grd E ont besoin de bcp de Kx / Fi. Faut trouver des actionnaires / associés
+	- 4eme exp :La revolution indus se fait d'abord en Belgique, GB, France. Les autres pays prennent du retard, parfois 40ans. Pr rattraper ce retard rapidement,fort phénomene de concentration. PK ? Pr etre compétitifn faut tt de suite etre en sit de prod bcp, et lutter à armes égales
+	- => Raisons du processus de cencentration danss les pays à la fin du 19eme.
 
-test
-fzehfizehfoizeho
