@@ -145,3 +145,7 @@ Video dessine moi l'éco =/= emprunts
 		- Les knozern = vertical
 	- Le Klisme allemand à la fin du 19emeest extrèmement concentr, du fait notamment de la fusion entre K bq et K indus : de grd E ont été créées pr prod dans l'indus, d'où un besoin de Fi important dû à leur taille
 	- Encore ajd, la force du Klisme allemand c'est que les bq ne se contentent plus de prêter, elles entrent dans le Klisme de l'E ->lorsque l'E demande à une bq un prêt, la bq faisa,t partie des actionnaires, elle a confiance.
+
+- Les causes du retard Fr : les causes de la faiblesse des grd E Fr, relèvent d'un double pb : 
+	- Pb juridique : Interdiction des SA jusqu'en 1867, bien après la GB -> statut juridique permettant les société de K. De ce fait, peu de concentration de Kx, - grd E = frein au dev du Klisme Fr.
+	- Pb culturel : méfiance vis à vis de l'argent, valorisation de la famille. Donc le Klisme Fr, on s'associe - à des actionnaires inconnus. A quelques exceptions près, de grd familles qui sont très riches. -> Klisme familial ne pourra pas rivaliser avec les grd E allemandes / américaines (ne réuniront pas assez de Kx.)
