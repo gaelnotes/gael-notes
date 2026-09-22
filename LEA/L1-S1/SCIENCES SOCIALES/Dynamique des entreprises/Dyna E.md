@@ -127,4 +127,6 @@ Video dessine moi l'éco =/= emprunts
 - La concentration des E : =aug de lataille de l'E càd que onvoit lesE devenir de +en+ grd.
 - Les causes de la concentration des E au 19eme : 
 	- 1ere explication pcq les activités indus necessitent bsp de Kx
-	- 2eme exp : crise : grande dépression, entreprises fragiles= moins d'E
+		- 2eme exp : crise : grande dépression, entreprises fragiles= moins d'E
+
+test
