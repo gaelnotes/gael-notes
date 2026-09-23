@@ -88,3 +88,14 @@ Pas les mêmes lois appliquées dans un territoire que dans un autre, droit limi
 ##### 2.1.2 Une population
 Toutes les personnes vivant sur un territoire sont soumises au droit de cet état.
 =/= avec empire est que empire est constitué d'un centre politique avec des marges et =/= de statuts juridiques. Hétérogénité entre royaumes autonomes et provinces.
+
+##### 2.1.3 Une institution spé dans les affaires publiques
+Institutionnalisation= process par lequel une orga est créée. Ne se limite pas aux individus qui la dirigent, continue d'exister même qd les dirigeants ne sont plus là. Survit aux personnes qui la dirigent.
+=/= royaume féodal : pouvoir centralisé au niveau du roi / seigneur
+
+<u>3 caractéristiques de cette instit</u>
+1. Cette instit a la capacité d'imposer des normes et la validité de ces normes indépendament du consentement des personnes qui sont soumises à cette norme.
+2. Toutes les règles de droit applicapble à une société émanent directement / indirectement de l'état
+	1. Cf pyramide de la hiérarchie des normes selon Kelsen
+	 ![[LEA/L1-S1/SCIENCES SOCIALES/Sciences politiques/Pasted image 20260923134959.png]]
+3. L'état est le garant de l'application du droit
