@@ -113,4 +113,9 @@ Fait ref à la coercition
 externe : pas d'autre orga ext à l'état est sup à l'état
 interne :  pas d'autre orga politique ne peut concu l'état.
 
-Selon Weber l'état est défini dans son rapport à la violence.
+Selon Weber l'état est défini dans son rapport à la violence / contrainte.
+Considérer en même temps la conduite de la guerre et admin de la punition qui sont comprises dans le terme de violence physique légitime.
+Dans période féodale d'autres orga concu l'autorité du roi ex l'église
+
+Pr weber le monopole n'est jamais acquis,l'état cherche constament la légitimité (ex darmanin qui dit que si les violences sont commises par une orga de l'état et non une autreorga elles sont légitimes.)
+
