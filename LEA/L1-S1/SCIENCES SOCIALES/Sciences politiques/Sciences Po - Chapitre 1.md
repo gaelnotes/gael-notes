@@ -131,9 +131,15 @@ Norbert Elias - La dyna de l'occident
 => montrer cmt au cours du temps le pv s'est concentré et centralisé => formé états modernes
 11eme sciècle, certains territoire appartiennent aux autres seigneurs qui sont vassaux du roi de France.
 Ces seigneurs ont le pv fiscal et exercent le pv judiciaire; le pv politique est détenu par les seigneurs et le roi gère les vassaux / les vassaux versent les impôts au roi. (seigneur des seigneurs)
-Les autre seigneurs sont constament en concurrence pour constituer et maintenir leur royaume, guerres pr récup du territoire et des ressources, statut "pauvre" = dangereux pr la survied'un royaume. + instab avec domination du roi remise en Q (ex cap à trancher des litiges entre seigneurs / difficultés à imposer sa volonté sur les autres vassaux.)
+Les autre seigneurs sont constament en concurrence pour constituer et maintenir leur royaume, guerres pr récup du territoire et des ressources, statut "pauvre" = dangereux pr la survie d'un royaume. + instab avec domination du roi remise en Q (ex cap à trancher des litiges entre seigneurs / difficultés à imposer sa volonté sur les autres vassaux.)
 Conduit à la concentration prog du pv et des ressources vers un seigneur "central" qui a su s'imposer / accumuler + de ressources que les autres, les autres seigneurs cherchent sa protection et deviennent ses vassaux.
 
 Norbert Ellias - La civilisation des moeurs 
 => Noblesse domestiquée car roi de la dynastie des capétients organise ce cours et interdit la violence entre seigneurs et interdit le duel.
 Code de conportement courtois, passification entre les seigneurs s'étend et gagne l'enemble de la population. = passification de la société/ processus de civilisation.
+
+##### 2.3.2 La bureaucratisation de l'état
+L'état va payer des fonctionnaires pr aller taxer les gens
+Ss François 1er mep de la police / armée / diplomatie / fiscalité
+ø monnaie qui dépend de lui
+Admin centrale se dev
