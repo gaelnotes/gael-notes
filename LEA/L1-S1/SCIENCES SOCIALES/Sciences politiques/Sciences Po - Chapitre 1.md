@@ -107,4 +107,10 @@ Institutionnalisation= process par lequel une orga est créée. Ne se limite pas
 
 Fait ref à la coercition
 
-"Nous appellerons état une E politique à caractatère instit lorsque et tant que sa DA revendique avec succès, dans l'appliucation des règlements, le monopole de la contrainte physique."
+"Nous appellerons état une E politique à caractatère instit lorsque et tant que sa DA revendique avec succès, dans l'application des règlements, le monopole de la contrainte physique légitime."
+
+2 dim à la souveraineté
+externe : pas d'autre orga ext à l'état est sup à l'état
+interne :  pas d'autre orga politique ne peut concu l'état.
+
+Selon Weber l'état est défini dans son rapport à la violence.
