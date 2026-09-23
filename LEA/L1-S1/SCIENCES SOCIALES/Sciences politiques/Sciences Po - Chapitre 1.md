@@ -147,3 +147,14 @@ Pv suffisant pr orga une admin qui se deploie sur l'ensemble du territoire
 
 <u>/!\ A retenir</u>
 C'est sur moodle.
+
+##### 2.3.3 L'institutionnalisation du Pv
+L'état est formé "lorsque le pv a son siège nn plus dans un homme mais dans une instit" -Burdeau
+
+##### 2.3.4 L'état comme pdt de la guerre
+Charles tilly - Coercition, Capital and EU states - Construction de l'état, guerres et émergence du Klisme.
+
+L'état apparait comme un effet secondaire des efforts de la guerre "les états font la guerre et la guerre font les états"
+ 1er élément = admin fiscal
+ 2eme élément = conscription (service militaire par ex)
+ 
