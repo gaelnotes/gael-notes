@@ -121,6 +121,14 @@ Pr weber le monopole n'est jamais acquis,l'état cherche constament la légitimi
 Pr darmanin toute action de l'état est légitime car il détient le monopole et si l'état repond à une demande sociale.
 Pr weber l'état est toujours en train de se renforcer / de remettre en question et justifier par la légtimité. 
 /!\ A retenir.
-- Weber s'interrogesur la manièredont les états se sont formés et tente de diff l'état moderne de l'état féodal
+- Weber s'interroge sur la manièredont les états se sont formés et tente de diff l'état moderne de l'état féodal
 - En  vient à établir lien entre revendicatipon et exercice légitime de la force et état moderne : état contemporain = commu humaine qui revendique pr elle meme etparvient à imposer ele monop de la vpl
 - Ce monop de l'ex legitime de la force n'est jamais def acquis, cette légitimité peut etre remise en Q.
+
+#### 2.3 Trajectoire historique de formation de l'état
+##### 2.3.1 La concentration du pv
+Norbert Elias - La dyna de l'occident
+=> montrer cmt au cours du temps le pv s'est concentré et centralisé => formé états modernes
+11eme sciècle, certains territoire appartiennent aux autres seigneurs qui sont vassaux du roi de France.
+Ces seigneurs ont le pv fiscal et exercent le pv judiciaire; le pv politique est détenu par les seigneurs et le roi gère les vassaux / les vassaux versent les impôts au roi. (seigneur des seigneurs)
+Les autre seigneurs sont constament en concurrence pour constituer et maintenir leur royaume, guerres pr récup du territoire et des ressources, statut "pauvre" = dangereux pr la survied'un royaume. + instab avec domination du roi remise en Q (ex cap à trancher des litiges entre seigneurs / difficultésà imposer sa volonté sur les autres vassaux.)
