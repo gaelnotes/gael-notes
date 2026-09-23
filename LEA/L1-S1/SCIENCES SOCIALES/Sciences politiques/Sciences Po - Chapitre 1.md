@@ -99,3 +99,12 @@ Institutionnalisation= process par lequel une orga est créée. Ne se limite pas
 	1. Cf pyramide de la hiérarchie des normes selon Kelsen
 	 ![[LEA/L1-S1/SCIENCES SOCIALES/Sciences politiques/Pasted image 20260923134959.png]]
 3. L'état est le garant de l'application du droit
+**Etat de droit = l'état respecte le droit qu'il produit** ceux qui sont au pv doivent respecter les règles qu'ils éditent.
+
+#### 2.2 Le monopole de la contrainte physique légitime
+"L'état contemporain est cette communaiuté humaine qui, à l'intérieur d'un territoire déter revendique pr elle meme et parvient à imposer le monopole de la violence physique légitime."
+-Weber
+
+Fait ref à la coercition
+
+"Nous appellerons état une E politique à caractatère instit lorsque et tant que sa DA revendique avec succès, dans l'appliucation des règlements, le monopole de la contrainte physique."
