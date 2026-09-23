@@ -143,3 +143,7 @@ L'état va payer des fonctionnaires pr aller taxer les gens
 Ss François 1er mep de la police / armée / diplomatie / fiscalité
 ø monnaie qui dépend de lui
 Admin centrale se dev
+Pv suffisant pr orga une admin qui se deploie sur l'ensemble du territoire
+
+<u>/!\ A retenir</u>
+C'est sur moodle.
