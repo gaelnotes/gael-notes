@@ -86,4 +86,3 @@ La santé publique def les politiques publiques / mesures à prendre pr faire de
 	- Dispensaires
 	- Nécessité de soigner tt le monde (même les pauvres) pr préserver la population
 "Ainsi qu'avant d'être un savoir sur les maladies des populations, la SP manifeste un pv qui s'exerce sur les sujets pr leur bien etre, une réalité élémentaire qui semble occultée ajd du fait de l'abondance de chiffres et de calculs de risques qui sont produits pr justif des actions de prévention."
-a
