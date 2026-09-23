@@ -118,4 +118,9 @@ Considérer en même temps la conduite de la guerre et admin de la punition qui 
 Dans période féodale d'autres orga concu l'autorité du roi ex l'église
 
 Pr weber le monopole n'est jamais acquis,l'état cherche constament la légitimité (ex darmanin qui dit que si les violences sont commises par une orga de l'état et non une autreorga elles sont légitimes.)
-
+Pr darmanin toute action de l'état est légitime car il détient le monopole et si l'état repond à une demande sociale.
+Pr weber l'état est toujours en train de se renforcer / de remettre en question et justifier par la légtimité. 
+/!\ A retenir.
+- Weber s'interrogesur la manièredont les états se sont formés et tente de diff l'état moderne de l'état féodal
+- En  vient à établir lien entre revendicatipon et exercice légitime de la force et état moderne : état contemporain = commu humaine qui revendique pr elle meme etparvient à imposer ele monop de la vpl
+- Ce monop de l'ex legitime de la force n'est jamais def acquis, cette légitimité peut etre remise en Q.
