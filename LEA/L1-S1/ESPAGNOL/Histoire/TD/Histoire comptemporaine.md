@@ -154,9 +154,13 @@ Jsp cb de coups d'états, bcp de nouvelles constit, tout cequi est dessous ne se
 	- Religion
 		- Estado confesional
 		- catolicismo como religion oficial
-		- Iglesia - control esclavitud
+		- Iglesia - control educativo
 	- Relaciones iglesia / estado
-		- 
+	- Modelo economico
+		- Proteccionismo mercados cerrados
+	- Cultura nacional
+		- Tradicion tauromaquia mundo rural
+	- Zonas rurales
 - Modelo Liberal
 	- Decentralizado (desde periferia), autonomia regional
 	- Como construir la nacion ?
@@ -166,8 +170,34 @@ Jsp cb de coups d'états, bcp de nouvelles constit, tout cequi est dessous ne se
 		- => Guerras de indepedencia en alerica latina a partir de 1824.
 		- -> perioda de colonidas (excetpo de cuba, puertorico y filipinas)
 		- -> Muchos problemas economicos (faire la guerre c'est cher).
-	- Libertad religiosa
+	- Libertad religiosa, libertad de culto
 	- Educacion libre
-	- cada vez mas anti clericalismo
+	- cada vez mas anti-clericalismo
+	- Libre cambio
+	- + dinamismo mercado capitalismo
+	- Universidades cultura urbana
+	- Grandes ciudades
 
 =/= policia nacional & local : =/= contacto con la poblacion, guardia civil contacto menos problematico
+-> Elemento comun :
+- El cambio de un modelo a otro se suele hacer mediante una intervencion militar
+	- Asolutistas
+		- -> Golpe de estado
+			- -> Militares tradictionales
+	- Liberales
+		- -> Pronunciamiento militar
+			- -> Militares liberales
+- =/= golpe / pronunciamento =
+	- Golpe = en la capital
+	- Pronunciamento = desde la periferia
+- Militares
+	- Desarollo de una mentalidad intervencionista
+	- ejercito -> actor politico
+	- Problema estructural
+
+Milans del bosch golpe 1845
+son fils :golpe1868
+son fils : golpe 1923
+son petit fils : golpe 1936
+encore golpe 1981
+
