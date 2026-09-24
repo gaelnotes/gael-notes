@@ -125,3 +125,49 @@ Influenza international importante (birtaniques et américaine)
 		- Canto dura la constitucion?
 			- Final de guerra 1814
 				- Vuelve absolutivo
+
+## 3. -> absolutismo / liberalismo -> ley de péndulo 1814-1868
+- 1812 - Constitucion de cadiz
+- 1814 - Fernando VII absolutismo, no accepta la constitucion, restaura el absolutismo, también tiene apoyo social "vivan las cadenas"
+Jsp cb de coups d'états, bcp de nouvelles constit, tout cequi est dessous ne sert à RIEN !
+- 1820- const 1812
+- 1823- Estatuio
+- 1835 - Constit 1835
+- 1845 - constit
+- 1854 - constit
+- 1856 - 
+- 1868 - constit 1869
+
+
+<u>-> Persistencia del antiguo régimen</u>
+-> El cambio no termina de consolidarse
+-> Fuerza de la <u>tradicion</u>
+
+>-> Dos modelos de organizacion de la nacion
+- Modelo absolutista
+	- Centralista (capital madrid), sectores conservadores
+	- organizacion del territorio
+	- Orden publico (policia)
+	- Modelo central, policia nacional, guardia civil
+	- Régimen colonial (américa)
+		- colonias esclavitud
+	- Religion
+		- Estado confesional
+		- catolicismo como religion oficial
+		- Iglesia - control esclavitud
+	- Relaciones iglesia / estado
+		- 
+- Modelo Liberal
+	- Decentralizado (desde periferia), autonomia regional
+	- Como construir la nacion ?
+	- Policia reclutada localmente (milicia nacional)
+	- Igualida américa peninsula
+		- Fin esclavitud
+		- => Guerras de indepedencia en alerica latina a partir de 1824.
+		- -> perioda de colonidas (excetpo de cuba, puertorico y filipinas)
+		- -> Muchos problemas economicos (faire la guerre c'est cher).
+	- Libertad religiosa
+	- Educacion libre
+	- cada vez mas anti clericalismo
+
+=/= policia nacional & local : =/= contacto con la poblacion, guardia civil contacto menos problematico
