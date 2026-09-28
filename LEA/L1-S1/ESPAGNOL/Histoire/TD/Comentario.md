@@ -5,7 +5,7 @@ METODOLOGIA DEL COMENTARIO
 >	Escribir una problematica
 1. ¿Cómo? ¿En qué medida / manera ? ¿Hasta que punto ? (ne pas utiliser ¿Por qué ?)
 2. Autor
-3. El tema / palabras claves (2 o 3 -> nb parties)
+3. El tema / palabras claves (mots clés) (2 o 3 -> nb parties)
 4. Contexto histórico / siglo / fecha
 >1. El plan
 >2. Analisis 

@@ -108,7 +108,7 @@ In 1536 Wales was absorbed in the English Kingdom (Act of Union)
 
 The situation in Scotland is very different: 
 1296 - King Edwards I of Englend tried to invade Scotland
-= Scottish knight William Wallace ledto war of independence
+= Scottish knight William Wallace led to war of independence
 -> inspired braveheart (w/ mel gibson)
 WW's torture contributed to a surge of nationalism but the Anglo Scottish treaty of Perpetual Peace was signed in 1502.
 1603 - King James of Scotland also became the King of England.
@@ -120,3 +120,4 @@ In the 60s, oil began to be exploited in the North Sea
 => A boon (opportunity) for the SNP (Scottish National Party) (which is rather left winged + Pro EU)
 The party was founded in 1934 but gained momentum (ampleur / vitesse)
 
+### 2. Growing autonomy
