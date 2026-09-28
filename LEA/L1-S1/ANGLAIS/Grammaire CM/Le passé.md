@@ -94,3 +94,16 @@ mettre en val une sit continue
 -Exprime une action qui est vraie ou tjr valable dans le présent
 -Permet de parler de la sit présente
 -Peut être reformulé au présent
+
+Pr faire le bilan d' une période                                         
+Prétérit = action terminée
+PP = parler de l'action présente
+
+#### Autres emplois
+Pr event récent
+it's the 1st / 2nd time...
+It's the [suprerlatif (=most, ...st)] that...
+
+### 3. Les mots du PP
+Adv du bilan (already, ever, never, yet...)
+For et Since
