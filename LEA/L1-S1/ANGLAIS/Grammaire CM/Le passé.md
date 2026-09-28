@@ -108,3 +108,7 @@ It's the [suprerlatif (=most, ...st)] that...
 Adv du bilan (already, ever, never, yet...)
 For et Since
 for (durée de laction) =/= during (période pdt laqquelle l'action a eu lieu)
+
+### 4. Le présent continu
+have + en
+be + ing

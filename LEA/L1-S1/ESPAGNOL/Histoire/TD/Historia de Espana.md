@@ -85,3 +85,4 @@ Escribir una problematica
 2. Autor
 3. El tema / palabras claves (2 o 3 -> nb parties)
 4. Contexto histórico / siglo / fecha
+
