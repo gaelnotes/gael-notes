@@ -121,3 +121,12 @@ In the 60s, oil began to be exploited in the North Sea
 The party was founded in 1934 but gained momentum (ampleur / vitesse)
 
 ### 2. Growing autonomy
+Devolution -> to prevent the breakup of the uk ?
+1979 - 1st referundum on devolution held in Scotland and Wales
+But not enough support for devolution at the time.
+
+The Conservatives (aka Tories) were  in office from 79 to 97 (thatcher then major)
+They were not wanted in scotland = <mark style="background:#fff88f">democratic deficit</mark> (when a group feels their vote doesn't matter) which resulted in a campaign for a new scottish parliament
+
+1997 Tony blair became PM (labour party)
+-Another referundum on devolution was held : should there be a scottish parliament ?
