@@ -74,3 +74,19 @@ Demande polie
 Have (présent) + V(EN)
 V(EN) = participe passé
 Questions : Aux - S - V
+V irréguliers :
+Abide
+arise
+awake
+be
+bear
+beat
+become
+beget
+begin
+
+### 2. Emplois
+Raconter un event terminé
+Prez une exp accumulée
+Montrer evol jusqu'à ajd
+mettre en val une sit continue
