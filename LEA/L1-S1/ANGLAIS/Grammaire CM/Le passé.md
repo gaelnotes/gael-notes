@@ -107,3 +107,4 @@ It's the [suprerlatif (=most, ...st)] that...
 ### 3. Les mots du PP
 Adv du bilan (already, ever, never, yet...)
 For et Since
+for (durée de laction) =/= during (période pdt laqquelle l'action a eu lieu)
