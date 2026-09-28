@@ -68,3 +68,9 @@ I wish i <mark style="background:#ff4d4f">were</mark> better
 Demande polie
 	I <mark style="background:#ff4d4f">was </mark>wondering if....
 	I <mark style="background:#ff4d4f">was</mark> hoping...
+
+## Present perfect
+### 1. Les formes
+Have (présent) + V(EN)
+V(EN) = participe passé
+Questions : Aux - S - V
