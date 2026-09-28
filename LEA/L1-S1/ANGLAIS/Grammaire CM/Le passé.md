@@ -90,3 +90,7 @@ Raconter un event terminé
 Prez une exp accumulée
 Montrer evol jusqu'à ajd
 mettre en val une sit continue
+-Généralement en contexte présent
+-Exprime une action qui est vraie ou tjr valable dans le présent
+-Permet de parler de la sit présente
+-Peut être reformulé au présent
