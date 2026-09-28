@@ -153,3 +153,11 @@ Why should scot mps be able to vote on english matters at WM when english mps ca
 David cameron (brit pm, torie) vs Alex salmond (snp)
 
 #### A/ The YES campain (in fav of indep) consisted of hope and patriotism
+#### B/ No thanks Against scottish independence
+The no campain was abt safety, mutual benefits and cooperation
+Indep had not been thought through (penser à toutes les éventualités)
+Pensions, social benefits, currency ?
+Oil and gas expected to run out, experts warn
+What abt the brit market ?
+Scotland's trade w/ the uk 55B£
+England's trade w/ scotland 62B£
