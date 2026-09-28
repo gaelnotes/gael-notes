@@ -161,3 +161,15 @@ Oil and gas expected to run out, experts warn
 What abt the brit market ?
 Scotland's trade w/ the uk 55B£
 England's trade w/ scotland 62B£
+Final results : 44.7% yes 55.3% no
+Probably another head over heart decision
+
+2years later : brexit0
+led to increased support of SNP
+- After brexit, indyref2 ?
+- The scottish parliament doesn't have the power to organize a new referundum on Scottish indep
+2024elec = huge blow for snp which lost a lot of seats
+=> it's quite unlikely that scotland will become indep soon
+
+Devolution = stronger local rep + political autonomy
+didn't want indep that much back then but then brexit hit and now they want indep asap
