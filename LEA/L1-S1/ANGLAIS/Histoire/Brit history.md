@@ -130,3 +130,26 @@ They were not wanted in scotland = <mark style="background:#fff88f">democratic d
 
 1997 Tony blair became PM (labour party)
 -Another referundum on devolution was held : should there be a scottish parliament ?
+turnout 63% (turnout = tx de particip)
+74% for a scottish parliament
+63% for tax-varying powers
+
+Wales = 50.3% Yes
+turnout = 50.1%
+
+=> devolved institutions were created in edinburgh (holyrood) and cardiff (the senedd)
+/!\ there is no english parliament
+2 Pbs w/ devolution: 
+	- PB 1
+		- english mps cant vote on matters affecting scotland and wales (health, ed...)
+		- yet scottish and welsh mpscan vote on matters affecting england in westminster (health and ed for example.)
+= the west lothian question
+Why should scot mps be able to vote on english matters at WM when english mps cant vote on matters devolved to the scottish parliament ?
+	- PB2
+		- Devolution is not independence.
+
+### 3. The scottish independence referundum (2014) /!\
+= the referundum on self determination for scotland 
+David cameron (brit pm, torie) vs Alex salmond (snp)
+
+#### A/ The YES campain (in fav of indep) consisted of hope and patriotism
