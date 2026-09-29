@@ -38,4 +38,16 @@ Vidéo equip auto 2015 Bertrand Rakoto
 	- 1er élément : repose sur l'idée de s'adresser à tt le monde, donc un très grand publique, avec une vraie simplicité d'utilisation
 	- 2eme élément : c'est le dev des photos, ainsi l'app photo va permettre de gagner de l'argent sur ce créneau là.
 	- PB? la révolution num met un frein à cette activité, provoquant l'effondrement de Kodak.
-	- 
+- Une notion importante évoq ici est : 
+	- La VA: c'est le fait que le travail réal dans une E produit de la richesse, synonyme entre valeur et richesse
+	- Et si on prend la VA prod par toutes les E d'un pays on trouve le PIB
+- Michelin : 
+	- Son modèle éco ?
+	- La maitrise des tech, avec une innov permanente
+	- La diff : d'importantes dépenses en R&D
+	- Forte compétitivité structurelle (repose sur la qual) -> des px + élevés que la concu et pourtant n°1 mondial
+	- Paternalisme : par le passé être chez michelin, c'est faire partie d'une famille dont le dirigeant serait le père.
+- Les notions importantes évoquées ici siont :
+	- L'intégration verticale :l'action de rassembler les =/= phases de la prod au sein d'une même E.
+	- La société en commandite  par actions : il sagit dun statut juridiquye particulier des E
+	- La multinationalisation : = expansion des activités d'une E à l'internationale via la créatin / acq de filiales ou de partenariats avec d'autres E dans * pays.
