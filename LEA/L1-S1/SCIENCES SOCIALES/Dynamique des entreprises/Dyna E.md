@@ -151,3 +151,11 @@ Video dessine moi l'éco =/= emprunts
 	- Pb culturel : méfiance vis à vis de l'argent, valorisation de la famille. Donc le Klisme Fr, on s'associe - à des actionnaires inconnus. A quelques exceptions près, de grd familles qui sont très riches. -> Klisme familial ne pourra pas rivaliser avec les grd E allemandes / américaines (ne réuniront pas assez de Kx.)
 - Ainsi, même si la rev indus commence en Fr avant, l'allemagne va rattraper son retard grâce à une indus qui se concentre + vite, réunissant bcp de Kx, investissantet innovant davantage.
 - -> Cela va donner lieu à une faiblesse du Klisme Fr, et un retard indus Fr que l'on voit très clairement en 1939 -40 où on constate que l'indus allemande est bcp+ perf que l'indus Fr.
+
+- Société holding: résultat de la concentration Fi. C qd la société mère ne prod rien, elle possède d'autres E (filiales) qui ont des activités de prod. Elle se rémunère à partir du profit de la gestion des autres E -> logique purement Fi.
+- Fusion et d'acquisition : Dans les moments de crisen certaines E disparaissent / font faillites :
+	- Acquisition : Une E peut disparaître car rachetées par d'autres. L'E devient de plus en plus grande en achetant les concu. Ex rachat de France telecom par Orange
+	- Fusion : quand  2 E décident de se mettre ensemble pr n'en former qu'une seule.
+- -> Donc pr grandir, les E peuvent évidemment invest et se dev par elles memes
+- -> Mais elles peuvent également soit faire l'acq d'autres E soit fusionner.
+
