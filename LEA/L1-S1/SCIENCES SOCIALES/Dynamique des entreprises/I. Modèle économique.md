@@ -13,3 +13,29 @@
 	- Ainsi toutes les activités en apparence désintéressées notament les RS revêtent en réalité tjr une dim éco bien comprise par les acteurs privés.
 
 Vidéo equip auto 2015 Bertrand Rakoto
+- La vidéo reprend cette idée de l'utilisation de vos données pr en faire de l'argent : c'est le big data
+- = moyen de savoir qui est le client et cmt le satisfaire.
+	- ici on nous explique que la voiture pourrait se rémunérer elle même grâce à l'util des données et l'argent que ca rapporte
+	- Et+ on util la voiture, + on se rémunère, + on peutà terle avoir un véhicule gratuit.
+	- Construction, utilisation, après vent, déconstruction.
+
+## 2. Pluralité et diversité des modèles éco
+- IBM Très grande E, - connue du grand public ajd : 
+	- Avec l'émergence du PC portable, évol tech qui le met en concu avec des acteurs + perf que lui
+	- Son modèle éco ?
+	- Il repose sur la maîtrise tech de très grd unités
+	- DONC arrêt de construction de OC, pr plûtot vendre leur licence et vendre leur capacuté àprod des PC à Lenovo
+	- Désormais, son coeur de métier sera plutot les services informatiques aux grd E.
+	- -> Modèle éco mis en dangerpar une évol tech qui oblige IBM à adapter ou à périr.
+- Les notions importantes évoq icisont :
+	- La marge 
+	- Le CA
+	- L'investissement (achat de bien de prod)
+		- L'investissement en R&D : =/= car immo immatérielle (invest pr fav l'innovde l'E et découvrir de nvx pdts / services)
+- Kodak : Très célèbre E dans les années 70-80 pr ses appareils photo faciles d'utilisation et à prix bas
+	- Malgré cela Kodak dégageait une marge très importante, avec à l'époque de 100k salariés dans le monde
+	- Son modèle éco ?
+	- 1er élément : repose sur l'idée de s'adresser à tt le monde, donc un très grand publique, avec une vraie simplicité d'utilisation
+	- 2eme élément : c'est le dev des photos, ainsi l'app photo va permettre de gagner de l'argent sur ce créneau là.
+	- PB? la révolution num met un frein à cette activité, provoquant l'effondrement de Kodak.
+	- 
