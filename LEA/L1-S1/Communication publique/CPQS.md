@@ -86,3 +86,14 @@ def la commu = ensemble de sispositifs qui accompagnent les strat des orga en f(
 Prez la commu au delà de sa dim opérationnelle ou instrumentale revient alors à s'interroger sur les enjeux dont il faut tenir compte pr comprendre les strat commu mep par les acteurs économiques sociaux et politiques en prenant en compte le temps long
 
 Def la commu publique = ensemble des dispositifs et des messages diffusés par l'éxecutif au niveau local et national, par l'achat d'espaces publicitaires ou la distrib de pdt éditoriaux. Elle intègre également les dispositifs dd'information à destination du grand public et les dispiositifs facilitant la relation entre usagers et services publics.
+
+##### 4. Principes essentiels
+- La cp est obj : cherche à informer et ou sensibiliser les citoyens, elle s'appuie sur des faits et des données impartiaux
+- Elle est transparente : elle a pr motiv l'intérêt général
+- Elle est neutre et interpellative: elle s'adresse à des citoyens usagers. de fait, ekke adiote un tin qui vise ç informer les citoyens de façon neutre ou à 
+
+#### commu publique ou politique ?
+Longtemps considérée comme une communiccation dépolitisée
+la CP peut être considérée comme une composante du politique
+c'est une communication qui accompagne l'exercice du pouvoir et la conduite despolitiques publiques.
+
