@@ -50,7 +50,7 @@ Phénomène de curialisation = transmission de normes bourgeoises aux classes po
 - Les pratiquesd'hygiène comme un outil de distinction sociale
 
 ##### 2. Facteur scietifique
-Médecinepastorienne : efface du même coup la distinction entre le social et le médical : tous les problèmes d'hygiène deviennent immédiatement sociales, et tous les pb sociaux renvoient en csq à une dim hygiéniste
+Médecine pastorienne : efface du même coup la distinction entre le social et le médical : tous les problèmes d'hygiène deviennent immédiatement sociales, et tous les pb sociaux renvoient en csq à une dim hygiéniste
 - En 1846 : 1ère anesthésie moderne
 - En 1900 decouv des groupes sanguins
 - En 1928 découv de la pénicilline, un antibio qui sauvera des millions de vies au 20eme sciècle.
@@ -60,3 +60,10 @@ Défaite de la prusse en 1871
 - interprêtée comme i=une faiblaisse démographique de la population française
 - Favorise la proclam. d'une 3eme rep (1870), un état très centralisé
 Travaux du baron Haussmann sous le second empire (à partir de 1853)
+Création du ministère de l'hygiène assistance et prévoyance sociale en 1920
+Devient ministère de la SP en 1930
+##### Après 1945
+Instauration de la sécu sociale
+- Mars 1944 : dans le programme du conseil national de la resistance ils proposent un plan complet visant à assurer à ts les citoyens des moyens d'existance dans ts les cas où ils sont incapables de se les proc par le travail
+- Politiques publiques axées sur le dépistage et l'accès au soin gratuit, absence de la prévention.
+
