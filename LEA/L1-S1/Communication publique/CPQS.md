@@ -74,3 +74,10 @@ Instauration de la sécu sociale
 ##### La biopolitique selon Foucault
 La biopolotique désigne le cjamps d'actionde l'état ayant pr visée de réguler la population en agissant sur les pb de natalité, de mortalité, de longévité, de SP, d'havitat, de migration, auxquels on peut ajouter les PB de sécu
 tournant identifé : le néolibéralisme dans les années 1970
+- Question de la légitimité du pv, qu'est ce qui justif l'existence des instit publiques politiques ?
+- Interventionisme sociétal permet in réservoir de main d'oeuvre et la reprod de l'ordre social.
+apparition des premières campagnes de communiocation publique
+
+#### Santé et communication publique
+##### LA notion de santé publique
+def de l'oms voir LEA/L1-S1/Communication publique/I. La santé pr les sciences de l'info et de la comm (sic)
