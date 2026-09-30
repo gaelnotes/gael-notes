@@ -97,3 +97,20 @@ Longtemps considérée comme une communiccation dépolitisée
 la CP peut être considérée comme une composante du politique
 c'est une communication qui accompagne l'exercice du pouvoir et la conduite despolitiques publiques.
 
+#### Les politiques de prévention
+Prévention = ensemble des actions qui visent à reproduire le nb et la gravité des pbde santé au sein d'une popoulation donnée
+- l'ambition d'aider la population à vivre mieux et plus longtemps
+- Utopie d'une santé parfaite
+Domaine variés : cancers, tabagisme, obésité, sécuroutière, échec scolaire, etc...
+
+- Prev indiv = modif lescomp par des oblig ou incitations
+- prev collective
+
+- prev primaire = risques de maladie avant leur survenue
+- prev sec : le plus précocement possible après survenue
+- tertiaire : réduire les complicatipons
+
+- universelle = s'aresse à l'ensemble de la population
+- sec : dest aux personnes à risques
+- teriaire dest aux malades
+
