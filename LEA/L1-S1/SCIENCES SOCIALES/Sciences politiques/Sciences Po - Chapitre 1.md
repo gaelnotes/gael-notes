@@ -157,4 +157,3 @@ Charles tilly - Coercition, Capital and EU states - Construction de l'état, gue
 L'état apparait comme un effet secondaire des efforts de la guerre "les états font la guerre et la guerre font les états"
  1er élément = admin fiscal
  2eme élément = conscription (service militaire par ex)
- 

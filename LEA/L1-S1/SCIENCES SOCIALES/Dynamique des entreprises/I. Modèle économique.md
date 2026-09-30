@@ -3,7 +3,7 @@
 - Exemple le modèle eco de pkmn go 
 	- Principe de gratuité 750 millions de téléchargements la première année
 	- Modèle de F2P avec plusieurs éléments pr construire ce modèle éco:
-		- Proposer de payer pr prog + vite dans le jeu
+''		- Proposer de payer pr prog + vite dans le jeu
 		- 1.2Mds de recettes
 		- Faire entrer des E privées dans la partieà"(pokestops)
 		- Utilisation de cookies
