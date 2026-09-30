@@ -67,3 +67,10 @@ Instauration de la sécu sociale
 - Mars 1944 : dans le programme du conseil national de la resistance ils proposent un plan complet visant à assurer à ts les citoyens des moyens d'existance dans ts les cas où ils sont incapables de se les proc par le travail
 - Politiques publiques axées sur le dépistage et l'accès au soin gratuit, absence de la prévention.
 
+##### L'émergence de la SP
+1) comme un obj politique : preserver et améliorer l'état de santé d'une population vivant sur un territoire donné 
+
+#### La biopolitique
+##### La biopolitique selon Foucault
+La biopolotique désigne le cjamps d'actionde l'état ayant pr visée de réguler la population en agissant sur les pb de natalité, de mortalité, de longévité, de SP, d'havitat, de migration, auxquels on peut ajouter les PB de sécu
+tournant identifé : le néolibéralisme dans les années 1970
