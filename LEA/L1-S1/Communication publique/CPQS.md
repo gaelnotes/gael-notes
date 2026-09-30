@@ -81,3 +81,8 @@ apparition des premières campagnes de communiocation publique
 #### Santé et communication publique
 ##### LA notion de santé publique
 def de l'oms voir LEA/L1-S1/Communication publique/I. La santé pr les sciences de l'info et de la comm (sic)
+
+def la commu = ensemble de sispositifs qui accompagnent les strat des orga en f() de leurs intérêts et de leur finalité qui se modifient au gré des évol socio économiques, politiques et sociétales.
+Prez la commu au delà de sa dim opérationnelle ou instrumentale revient alors à s'interroger sur les enjeux dont il faut tenir compte pr comprendre les strat commu mep par les acteurs économiques sociaux et politiques en prenant en compte le temps long
+
+Def la commu publique = ensemble des dispositifs et des messages diffusés par l'éxecutif au niveau local et national, par l'achat d'espaces publicitaires ou la distrib de pdt éditoriaux. Elle intègre également les dispositifs dd'information à destination du grand public et les dispiositifs facilitant la relation entre usagers et services publics.
