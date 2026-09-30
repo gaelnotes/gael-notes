@@ -33,5 +33,15 @@ Renan : nation comme plébiscite de ts les jours
 
 Conception allemande / romantique
 dim identitaire, culturelle voire ethnique
-=> nation romantique
+=> nation romantique (langue, culture, passé commun)
 
+Bataille de valmy 1791 armée fr contre armées des monarchies européennes
+La nation n'estdéfinie que par la possession commune de souvenirs et l'héritage reçu
+
+#### 1.2.2 Une opposition à nuancer
+Proclamation de l'empire allemand à versailles
+
+On oppose 2 com=nceptions de la nation 
+
+1.2.3 Etat-nation
+on parle d'un état nation qd un territoire politique et juridique coincide avec la nation 
