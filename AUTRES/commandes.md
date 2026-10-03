@@ -18,3 +18,7 @@ spicetify apply
 CURSEFORGE :
 cd ~/Downloads && chmod +x curseforge-latest-linux.AppImage && ./curseforge-latest-linux.AppImage
 
+cd minecraft_server
+java -Xmx12288M -Xms12288M -jar fabric-server-mc.26.3-loader.0.19.5-launcher.1.1.2.jar server nogui
+
+sudo mkdir -p /run/playit && sudo chown codespace:codespace /run/playit && playitd &
