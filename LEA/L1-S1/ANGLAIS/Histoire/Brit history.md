@@ -226,3 +226,11 @@ Goals : + indep, + reunited Ireland
 
 1969 - British army sent to NI but nationalists wanted them out
 30 jan 1972 : British army  opened fire on unarmed Irish protesters - 14 ppl killed
+
+27 aug 1979 Lord Mountbatten assassinated by the IRA (with bomb on family fishing sheep)
+
+Troubles = understatelent that refers to the cycle of sectarian violence that spiraled out of control in NI (69-98)
+Resulted in the Brit army being dispatched in NI which turn led ti an increase of violence and IRA bombing campaign in england
+In the 90s abt 3500 ppl had died. the situation came to a standstill. The general public was in favour of peace
+
+The good friday agreement (1998) ended all ts shit
