@@ -99,3 +99,6 @@ Escribir una problematica
 - abusos puntuales
 - el texto propone una regresion politica
 
+**<font color="#c0504d">Desamortizador :</font>** Priva a un bien de su condición de inaleniable (que no se puede quitar, ceder, transferir ni renciar a ello). Especialmente cuando  pertenece a unas instituciones religiosa para permitir su venta en circulación en el mercado privado
+
+**<font color="#c0504d">Mendizábal :</font>** Juan Alvarez Mendizábal fue un politico y ministro español del liberalismo, especialmente importante durante la regencia de María Cristina de Borbón.
