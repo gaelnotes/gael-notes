@@ -86,3 +86,16 @@ Escribir una problematica
 3. El tema / palabras claves (2 o 3 -> nb parties)
 4. Contexto histórico / siglo / fecha
 
+## Los principios ideologicos del Carlismo
+- Contexto : conflicto ecologica entre las carlistas y liberales durante el reinado de Isabel II 
+- Primera parte :
+- El texto refleja una postura carlista profundamente conservadora, que rechaza el espiritu revolucionario y progresista de la epoca
+- Se trato de Carlos como el rey legitimo
+- se desprecia al pueblo calificado como insolente populacho
+- vision teocratica y autoritaria
+- moral cristina
+- Segunda parte :
+- preguntas retoricas
+- abusos puntuales
+- el texto propone una regresion politica
+
