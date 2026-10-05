@@ -207,3 +207,22 @@ Resulted in the indep of the rep of ireland + partition with NI
 - Political party = democratic unionist (dup)
 - Paramilitary wing
 
+- republicans / nationalists
+- parti : Sinn Fein
+- > ties w/ the IRA and the provisional irish republican army
+
+NI population 35% catholics 65% protestants => oppressionof minorities
+
+1960s NI civil rights movement 
+
+Some peaceful protests were met with police brutality
+Spike in intercommunal violence in late 60s + paramilitary groups parading
+
+Bombay street, belfast, 1969
+150+ catholic houses were torched, 1500 ppl were affected
+
+Provisionnal IRA
+Goals : + indep, + reunited Ireland
+
+1969 - British army sent to NI but nationalists wanted them out
+30 jan 1972 : British army  opened fire on unarmed Irish protesters - 14 ppl killed
