@@ -173,3 +173,37 @@ led to increased support of SNP
 
 Devolution = stronger local rep + political autonomy
 didn't want indep that much back then but then brexit hit and now they want indep asap
+
+## III. Nothern Ireland
+### Introduction
+NI = ulster
+rep of ireland = Eire
+
+Ireland was united as a single entity
+both are christians but are part of two different groups
+
+England and scotland started to send protestants to Ireland
+Started to rebell against protestant authority
+
+1845 - 1852 - The irish potato famine
+Approx 1m deaths and 2m emigrated
+Home rule act : placed on hold with the outbreak of ww1
+
+Easter rising (1916) : they took advantage of ww1 to proclaim Ireland's independence
+Irish indep war, 1919-1921
+- Between the Irish republican aarmy (Ira, close to Sinn Fein) and the british forces
+- => anglo irish treaty 192
+- =partition of ireland
+
+1922-1923 Irish civil war
+Ireland and Ni used to be the same country > troublesome history
+Resulted in the indep of the rep of ireland + partition with NI
+=> left a part of the population discontented
+
+### The troubles
+=an understatement / euphemism
+/!\
+- Loyalists or unionists = pro UK
+- Political party = democratic unionist (dup)
+- Paramilitary wing
+
