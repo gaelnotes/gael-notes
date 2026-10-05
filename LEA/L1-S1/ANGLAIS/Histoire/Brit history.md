@@ -234,3 +234,11 @@ Resulted in the Brit army being dispatched in NI which turn led ti an increase o
 In the 90s abt 3500 ppl had died. the situation came to a standstill. The general public was in favour of peace
 
 The good friday agreement (1998) ended all ts shit
+The belfast agreement in a nutshell
+1) power sharing  between Loyalists and Nationalists
+2) decomissionning
+3) release of paramilitary prisonners
+4) equal civil / reliious rights
+5) soft border
+6) anyone born in NI can be an Irish + British citizen
++Approved by bith irish and brit gvt and the population of NI (71%) and Ireland (94%)
