@@ -60,4 +60,14 @@ Les outils num sont supposés déléguer aux individus la Resp de se soigner / p
 
 Les frontières sont de plus en plus brouillées dans le monde de la santé entre le domaine médical et le domaine du bien être
 
-## 4.jjjop
+## 4. Quels dispositifs de santé pr quels usagers ?
+### 4.1 Les patients, Les asso de defdes droits des malades
+- Pr ces usagers, l'intérêt des app méd réside  dans l'amélioration des sioins et di suivi
+	- des maladies chroniques, de prise des médocs, des traitements
+- Les usagers des app des santé sont en constante prog
+	- enquete 2024 : prise de rdv en ligne pr des spécialistes et médecins généralistes
+	- 54% des Fr ont déja utilisé des app de suivi
+		- remise en forme 
+		- info sur la santé
+
+
