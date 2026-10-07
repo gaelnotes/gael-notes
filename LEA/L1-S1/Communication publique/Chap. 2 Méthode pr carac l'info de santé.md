@@ -61,7 +61,7 @@ Les outils num sont supposés déléguer aux individus la Resp de se soigner / p
 Les frontières sont de plus en plus brouillées dans le monde de la santé entre le domaine médical et le domaine du bien être
 
 ## 4. Quels dispositifs de santé pr quels usagers ?
-### 4.1 Les patients, Les asso de defdes droits des malades
+### 4.1 Les patients, Les asso de def des droits des malades
 - Pr ces usagers, l'intérêt des app méd réside  dans l'amélioration des sioins et di suivi
 	- des maladies chroniques, de prise des médocs, des traitements
 - Les usagers des app des santé sont en constante prog
@@ -69,5 +69,21 @@ Les frontières sont de plus en plus brouillées dans le monde de la santé entr
 	- 54% des Fr ont déja utilisé des app de suivi
 		- remise en forme 
 		- info sur la santé
+
+Utilisent de +en+ ces outils mais on voit qd meme des réticences / regret de l'intéraction humaine, manque de fiablilité et de prot des données personnelles
+
+### 4.2 Les professionnels de santé
+sont sceptiques
+### 4.3 Les Pv publics, l'oms soutiennent le dev des outils num
+Les enjeux sont toujours différents mais pas toujours avec la meme finalité
+- Dans les pays industrialisés, la promotion des outils num est envisagée par les pv publics pr réduire les coûts de santé (mds euros économisés d'apres la CEU). 
+- Dans les pays en voie de dev on en fait la promo pr dev / donner accès à la santé dans tous les territoires.
+- D'une manière gen, la plupart des politiques publiques soutiennent cette nouvelle économie et on peut constater qu'en europe, ce qui est plébiscité et largement utilisé sont les appli pr hypertension, le tabagisme et l'obésité.
+### 4.4 Les employeurs  achètent des applis de santé
+pk s'intéressent à la santé de leurs salariés ? 
+Logique managériale qui considèrent que pr aug la prod des salariés il faut être en bonne santé => contrôle
+
+### 4.5 Les assureurs favorisent les comportements sains
+dérive du contrôle des dispositifs de santé: biopouvoir pr contrôler leur activité professionnelle
 
 
