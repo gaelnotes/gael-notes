@@ -60,4 +60,4 @@ Les outils num sont supposés déléguer aux individus la Resp de se soigner / p
 
 Les frontières sont de plus en plus brouillées dans le monde de la santé entre le domaine médical et le domaine du bien être
 
-## 4.
+## 4.jjjop
