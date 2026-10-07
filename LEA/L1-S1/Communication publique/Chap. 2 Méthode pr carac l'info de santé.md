@@ -29,3 +29,35 @@ L'informatisation de la santé est perçue par les pv publivs comme une perf de 
 - un marché frag, très peu communicant, constit d'1 multisude de logiciels diff à un petit nb d'exemplaires et édités par de petites E
 - Des invest insuffisants de la part de l'état : les hôpitaux consacraient dans les années 2010 1.8% de leur PIB contre 3% ailleurs (ex pays bas)
 
+=> réflextion sur la télémédecine
+
+## 3. La privatisation de la santé
+### 3.1 Les logiques marchandes à l'oeuvre dans le domaine e la santé
+#### Comment les médecins / pro de santé (para)médicaux s'emparent du numérique pr dev des pratiques médicales qui intègrent le numérique
+Systèmes pas produits par des médecins mais par des acteurs du numérique : la santé devient progressivement marchande 
+La logique marchande s'introduit dans un système de santé qui n'est pas marchand
+Logique de la privatisation de l'info publique médicale = industrialisation de la santé (idée que les industriels de la tech vont utiliser / dev des dispositifs innovants et chers sa mère pour le système médical, ont grignoté le monopole de la santé par le biais des outils numérique)
+
+Le conseil national de
+- E-santé, terme apparu en 1999 :
+« L’usage combiné de l’internet et des technologique de l’information à des fins cliniques, éducationnelles et administratives, à la fois localement et à distance » 
+- M-santé, terme paru en 2005  : «L’usage des communications mobiles émergentes en santé publique » (Pr. Robert Istepanian)
+
+Redéfini en 2009 par l’OMS : « Les pratiques médicales reposant sur des dispositifs mobiles tels que les téléphones portables systèmes de surveillance des patients, assistants numériques personnes et autres appareils sans fil »
+- La télémédecine est définie par la Loi du 19 octobre 2010
+- La télésurveillance, Définie par le Code de santé publique : « La télésurveillance permet à un professionnel médical d’interpréter à distance les données nécessaires au suivi médical d’un patient et, le cas échéant, de prendre des décisions relatives à la prise en charge de ce patient. L’enregistrement et la transmission des données peuvent être automatisés ou réalisés par le patient lui-même ou par un professionnel de santé » 
+- La télésanté, Définie dans le rapport Labordes en 2009 , « La télésanté est l’utilisation des outils de production, de transmission, de gestion et de partage d’informations numérisées au bénéfice des pratiques tant médicales que médico-sociales ». [Livre Blanc, 2015, p. 11]
+- Les « applis » qui sont des logiciels prévus pour fonctionner sur des Smartphone ou talbettes 
+- Les objets connectés qui sont équipés d’un ou plusieurs capteurs pour mesurer des paramètres – communiquent par Wifi via une puce électronique – enregistrent les paramètres sur un serveur sécurisé pour pouvoir les suivre dans le temps 
+- Le Quantified Self : « regroupe de façon générique les outils, principes et méthodes permettant à chacun d’entre nous de mieux nous connaître, de mesurer des données relatives à notre corps, à notre santé, à notre état général ou aux objectifs que nous nous fixons. » Guide pratique de Quantified Self 
+
+Le marché de la santé connectée rep des CA extrèmement importants ,(secteur en pleine croissance) 78Mds d'euros projetés pr 2030 et ce en aug permanente
+![[LEA/L1-S1/Communication publique/Pasted image 20261007185019.png]]
+
+Ces outils n'ont pas seulement pr objet la pratique médicale mais permettre aux patints de devenir autonomes (responsabilisation du patient)
+Les outils num sont supposés déléguer aux individus la Resp de se soigner / prendre en charge, au détriment de l'action collective qui doit prendre en charge normalement la population
+=>  pose d'énormes pb pr le suivi médical, suivi des patients, etc..
+
+Les frontières sont de plus en plus brouillées dans le monde de la santé entre le domaine médical et le domaine du bien être
+
+## 4.
