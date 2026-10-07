@@ -86,3 +86,23 @@ La santé publique def les politiques publiques / mesures à prendre pr faire de
 	- Dispensaires
 	- Nécessité de soigner tt le monde (même les pauvres) pr préserver la population
 "Ainsi qu'avant d'être un savoir sur les maladies des populations, la SP manifeste un pv qui s'exerce sur les sujets pr leur bien etre, une réalité élémentaire qui semble occultée ajd du fait de l'abondance de chiffres et de calculs de risques qui sont produits pr justif des actions de prévention."
+
+### 3.2  La santé comme fait social
+#### Les recherches en socio abordent la santé
+- Comme objet d'étude sous l'angle
+	- Institutionnel : étude des établissements de santé
+	- Professionnel: étude des goupes pro de santé
+- Comme terrain permettant d'observer les chgts sociaux ou la circulation des connaissances médicales dans la société.
+
+#### La sanitarisation du social
+- une réécriture d'un problème social en langage sanitaire (Fassin, 2008)
+
+#### Pr Aïach et Delanoë (1998), anorder 1 Q sociale en termes sanitaires se traduit par
+- une aug du nb de médecins et d'instit de santé 
+- une ext du champs de comp de la médecine dans de nb domaines d'activ de la société
+
+- La médiatisation de la société est appréhendée comme une construction sociale qui confère une nature médicale à des représentations et des pratiques qui n'étaient jusqu'à lors pas socialement abordée dans ces termes
+
+#### La santéisation de la société ou healthism (crawford 1980)
+Par exemple dans l'alimentation
+Le plan national de nutrition santé (depuis 2001) (manger bouger)
