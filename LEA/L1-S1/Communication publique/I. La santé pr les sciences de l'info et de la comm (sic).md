@@ -106,3 +106,27 @@ La santé publique def les politiques publiques / mesures à prendre pr faire de
 #### La santéisation de la société ou healthism (crawford 1980)
 Par exemple dans l'alimentation
 Le plan national de nutrition santé (depuis 2001) (manger bouger)
+Nutriscore
+
+Le cure : traiter la maladie (role du medecin)
+Le care : prendre soin du malade (rôle de l'infirmier)
+
+Présence importante de femmes dans le milieu médical
+
+### 3.3 La dimentsion bio politique de la santé
+#### Le concept de gouvernementalité
+- néologisme forgé à partir de gvt et rationalité
+- gvt réfère à une conduite ou à une activité destinée à modeler, guider ou influencer la conduite des personnes
+- conduite dépasse l'idée d'une direction imposée et renvoie aussi à la manière dont un individu se conduit lorsqu'il est guidé par un sentiment d'autorégulation.
+
+Bio pv = pouvoir de gouvernerla conduite des gens pour leur bien être.
+
+#### Le biopolitique ou le biopouvoir
+- Foucault introduit le concept de la biopolitique, qui désigne la manière dont le pouvoir s'exerce sur la vie des individus, en régulant des aspects comme la santé, la reproduction et la sexualité
+
+#### Les élements de contextualisation montrent :
+- la prégnance des QS dans les valeurs induviduelles et collectives du fait que la santé représente un enjeu social, moral, et politiqur fort
+	- La place des campagnes de prévention, d'info et de communiction sur la santé dans une société qui cherche à tout prix à éviter les risques sanitaires
+	- Le dev du nulérique des TIC et aookus de santé -E -santé qui présente des csq sur la réorga du travail des professions médicales mais aussi de la perception de la santé des individus.
+
+## 4. Conclusion
