@@ -9,8 +9,31 @@
 = deuxième fois que la famille bourbon revient en exil
 - Isabel II
 	- Desarollo del primer capitalismo en españa
-	- Zonas economicas - industrializadas
+	- Zonas economicas - **industrializadas**
 		- Cataluña 
-			- Industria textil comerci
+			- Industria textil comercio
+				- Textil = industria familiar
+				- Comercio fue con Cuba
+				- Comercio de esclavos
 		- Pais vasco 
 			- Industria pesada hierro / acero / siderurgia
+				- Armas
+				- Productos ferroviarios 
+				- Gran industria
+				- Industria del carbón
+					- Asturias (équivalent du nord pas de calais) - minas mineros
+	- Gestion Economica
+		- Mucha corrupción
+		- Trafico de influencias
+		- Isabel II
+			- Varios escándalos económicos
+			- Pueña de esclavos
+		- Estado necesita dinero
+			- Deudas de guerra
+			- Falta de recursos
+				- Recursos
+				- Educación 
+					- Dejada a la iglesia
+				- Seruicio militar
+					- "Soldado de Cuota"
+- 
