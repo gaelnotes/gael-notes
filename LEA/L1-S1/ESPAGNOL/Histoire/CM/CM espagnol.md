@@ -31,9 +31,10 @@
 		- Estado necesita dinero
 			- Deudas de guerra
 			- Falta de recursos
-				- Recursos
+				- Recursos 
 				- Educación 
 					- Dejada a la iglesia
 				- Seruicio militar
-					- "Soldado de Cuota"
+					- "Soldado de Cuota" 
+					- possibilité de payer pour ne pas faire le service militaire / que quelqu'un le fasse à ta place
 - 
