@@ -58,4 +58,7 @@
 	- I Republica
 		- Libertades ampliadas de asociación (partidos politicos)
 		- Y expresión
-	- 
+	- 1874
+		- Golpe de estado
+		- Fin de la republica
+		- Restauración de la monarquía y de la familia Borbón (encore)
