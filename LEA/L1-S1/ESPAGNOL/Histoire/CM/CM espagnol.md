@@ -37,4 +37,25 @@
 				- Seruicio militar
 					- "Soldado de Cuota" 
 					- possibilité de payer pour ne pas faire le service militaire / que quelqu'un le fasse à ta place
-- 
+	- Mucho malestar en el país 
+	- Revolución en 1868 contra Isabel II
+		- Golpe militar y civil
+	- Isabel II va al exilio > a Paris
+	- 1868-1874 Periodo más democrático
+	- 1869 Nueva constitución
+	- 1869
+		- Revolucionarios siguenpensado en la monarquía como mejor sistema, pero con otra familia
+	- Forma de gobierno
+	- Hacen una llamada internacional para elegir una nueva familia real
+		- Paises que no existen antes :
+			- Italia - 1861
+			- Alemania - 1871
+			- Norvega - 1905
+	- Nueva rey elegido porel parlamento
+		- Amadeo I de Saboya
+		- Reinado dura apenas unos meses
+	- En 1873 proclamación de la Primera Republica
+	- I Republica
+		- Libertades ampliadas de asociación (partidos politicos)
+		- Y expresión
+	- 
