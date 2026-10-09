@@ -92,4 +92,9 @@ Redéfinir l'E
 	- L'externalisation : rendre extérieures des activités réalisées auparavant par l'E elle même
 	- La créa° de valeur actionnariale : action de distribuer des benefs de l'E  à ses actionnaires
 	- L'optimisation fiscale : l'activité légale qui consiste à payer le moins d'impôts possible.
-- 
+- L'E n'existe pas, seulement la société existe en droit
+- L'actionnaire n'est pas proprio de l'E, seulement de parts sociales
+- La société existe en droit et est aytonome avec intéret propre et indep des parties qui la composent
+	- gouv des E = manière dont on associe à la prise de décision les diff parties prenantes au sein de l'E
+	- Les titres = certificat / papier qui atteste la propriété
+	- Une action = part de l'E qui donne des droits comme particip à l'AG, y voter et toucher des dividendes
