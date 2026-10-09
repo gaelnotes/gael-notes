@@ -51,3 +51,8 @@ Vidéo equip auto 2015 Bertrand Rakoto
 	- L'intégration verticale :l'action de rassembler les =/= phases de la prod au sein d'une même E.
 	- La société en commandite  par actions : il sagit dun statut juridiquye particulier des E
 	- La multinationalisation : = expansion des activités d'une E à l'internationale via la créatin / acq de filiales ou de partenariats avec d'autres E dans * pays.
+	- La notion d'innov : en lien avec la def de r&d qu'on a def auparavant. Qd en R&D on trouve qqch de nouveau, on appelle ca une innov
+		- Distinction entre des innov de pdts (nvx pdt / carac) et innov de procédé (manière de produire)
+	- Produits dérivés : pdt en lien avec l'activité de l'entreprise mais qui sont différents : jouets issus de dessins animés
+	- Joint-Venture : E créées par d'autres. + précisément = E  commune créée par d'autres E
+- 
