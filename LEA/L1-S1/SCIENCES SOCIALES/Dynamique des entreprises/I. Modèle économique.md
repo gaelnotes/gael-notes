@@ -55,4 +55,41 @@ Vidéo equip auto 2015 Bertrand Rakoto
 		- Distinction entre des innov de pdts (nvx pdt / carac) et innov de procédé (manière de produire)
 	- Produits dérivés : pdt en lien avec l'activité de l'entreprise mais qui sont différents : jouets issus de dessins animés
 	- Joint-Venture : E créées par d'autres. + précisément = E  commune créée par d'autres E
+
+## 3. la partie 3
+- Nike :
+	- Modèle éco ?
+	- La rep est dans le titre
+	- = E réseau : elle ne fabrique rien elle même mais est au coeur d'unréseau d'E qui fabriquent pr elle (ss traitance)
+	- Nike s'occupe de la conception (et innov)
+	- - de contraintes liées à la main d'oeuvre
+	- Forte implication dans la méthode du sponsoring
+- Toyota 
+	- Modèle éco ?
+	- Repose sur saméthode de prod (cjampionne de la productivité)
+	- Orga de la prod qui permet de prod + vite(le toyotisme)
+- Les notions évoquées ici sont :
+	- Brevet = titre de propriété intellectuuelle qui protège de la concurrence
+	- Importation : le fait d'acheter, de faire venir des produits de l'étranger (=/= exportation)
+	- Contingentement : pratique en commerce international qui consiste à donner des limites en termes de quantité
+- Vivendi veolia: modèle éco ?
+	- Avec les nouvelles techs de l'info et la communication, il y a 2 activités
+		- 1 liée à l'activité de prod des images, de la musique et l'info
+		- l'autre de cinéma pour que ca arrive chez nous sur ordi ou télé = activité de distribution
+	- L'idée est que ces deux métiers doivent permettre de faire + de profits = logique d'intégration
+	- Mais échec éco de JM Messier, trop grd croissance de l'E, remboursement impossible à assumer, pertes colossales -> licenciements en cascade
+	- Au final recentrage de l'Esur le coeur de métiers
+- Les notions évoquées ici sont :
+	- Groupe (aussi multinationale) = E unique qui rassemble plusieurs E(filiales) qui ont des relations Fi entre elles et qui ont à leur tête une société mère
+	- La rentre = benef de revenus exceptionnellemnt élevés, souvent dans une situation particulière (brevet, mobopole, etc)
+	- Bulle (ex : internet) : quand le prix des actions dépasse la valeur réelle
+
+Redéfinir l'E
+- Def d'une E ajd
+- article de 2018 redigé lors du débat sur la loi pacte, avec volonté de redéfinir l'E Fr
+- mise en avant de l'importance de ne pas se focus only sur le profit (dénonciation de nombreuses dérives)
+- Les notions évoquées ici sont de gagner le + d'argent possible.
+	- L'externalisation : rendre extérieures des activités réalisées auparavant par l'E elle même
+	- La créa° de valeur actionnariale : action de distribuer des benefs de l'E  à ses actionnaires
+	- L'optimisation fiscale : l'activité légale qui consiste à payer le moins d'impôts possible.
 - 
