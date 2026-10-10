@@ -12,6 +12,8 @@ On pitch pour la classique, 10K euros et 20% de parts (on vend des prises comme 
 On dit que les 10k serviront à acheter + d'imprimantes et améliorer notre marketing "we will expand our operation"
 
 
+PITCH :
+
 
 
 
