@@ -20,7 +20,7 @@ We're here today seeking for a 10.000£ investment in exchange of a 20% stake in
 
 ### 3. Describe your product
 Well what do we sell exactly ? Here's a quick example :
-Have you ever wanted to charge your phone but you struggled with something like this ? (photo des câbles emmêlés) Well, the Block is your solution : it is a retractable charging block, working kind of like a vacuum, that can extend a cable up to 4 meters long and retract instantly into the block when a button is pressed. This also make it easy to store in your luggage or purse, thanks to it's considerable gain of space.
+Have you ever wanted to charge your phone but you struggled with something like this ? (photo des câbles emmêlés) Well, the Block solves this problem : it is a retractable charging block, working kind of like a vacuum, that can extend a cable up to 4 meters long and retract instantly into the block when a button is pressed. This also make it easy to store in your luggage or purse, thanks to it's considerable gain of space.
 
 
 
