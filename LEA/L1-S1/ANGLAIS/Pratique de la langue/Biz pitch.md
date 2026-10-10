@@ -16,7 +16,7 @@ On dit que les 10k serviront à acheter + d'imprimantes et améliorer notre mark
 Hi. we are the gael jade alyssa and arthur. Backstory : we are marketing agents and accountants who decided to bet on a new kind of product with not so much competition yet. 
 
 ### 2. Investment and equity
-We're here today seeking for a 10.000£ investment in exchange of 20% of our company.
+We're here today seeking for a 10.000£ investment in exchange of a 20% stake in our company.
 
 ### 3. Describe your product
 Well what do we sell exactly ? Here's a quick example :
