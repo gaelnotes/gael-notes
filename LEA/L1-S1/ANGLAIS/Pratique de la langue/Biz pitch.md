@@ -13,12 +13,14 @@ On dit que les 10k serviront à acheter + d'imprimantes et améliorer notre mark
 
 ## PITCH
 ### 1. Introduction :
-Hi. we are the gael jade alyssa and arthur. Backstory : we are marketing agents and accountants who decided to bet on a new kind of product with not so much competition yet. Well what do we sell exactly ? Here's a quick example :
-Have you ever wanted to charge your phone but you struggled with something like this ? (photo des câbles emmêlés) Well, the Block is your solution : it is a retractable charging block, working kind of like a vacuum, that can extend a cable up to 4 meters long and retract instantly into the block when a button is pressed. This also make it easy to store in your luggage or purse, thanks to it's considerable gain of space.
+Hi. we are the gael jade alyssa and arthur. Backstory : we are marketing agents and accountants who decided to bet on a new kind of product with not so much competition yet. 
 
 ### 2. Investment and equity
 We're here today seeking for a 10.000£ investment in exchange of 20% of our company.
 
+### 3. Describe your product
+Well what do we sell exactly ? Here's a quick example :
+Have you ever wanted to charge your phone but you struggled with something like this ? (photo des câbles emmêlés) Well, the Block is your solution : it is a retractable charging block, working kind of like a vacuum, that can extend a cable up to 4 meters long and retract instantly into the block when a button is pressed. This also make it easy to store in your luggage or purse, thanks to it's considerable gain of space.
 
 
 
