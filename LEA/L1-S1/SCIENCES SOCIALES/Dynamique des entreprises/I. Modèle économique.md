@@ -98,3 +98,4 @@ Redéfinir l'E
 	- gouv des E = manière dont on associe à la prise de décision les diff parties prenantes au sein de l'E
 	- Les titres = certificat / papier qui atteste la propriété
 	- Une action = part de l'E qui donne des droits comme particip à l'AG, y voter et toucher des dividendes
+- Modifle code civil pr changer la def de la sociéré
