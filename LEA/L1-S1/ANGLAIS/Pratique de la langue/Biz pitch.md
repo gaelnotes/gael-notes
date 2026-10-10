@@ -23,8 +23,9 @@ Well what do we sell exactly ? Here's a quick example :
 Have you ever wanted to charge your phone but you struggled with something like this ? (photo des câbles emmêlés) Well, the Block solves this problem : it is a retractable charging block, working kind of like a vacuum, that can extend a cable up to 4 meters long and retract instantly into the block when a button is pressed. This also make it easy to store in your luggage or purse, thanks to it's considerable gain of space.
 
 ### 4. Present your bizness paln
-As of now we're only selling our Blocks in the local shop and retailers. Our current cost in production material + vat is at 5.62£ per unit, which we sell at 11.86£, so that'sa gross margin of 6.24£, which is a more than 52%. Last year we've sold 50k Blocks which granted us a 593000£ turnover, so a 312000£ gross margin.
+As of now we're only selling our Blocks in the local shop and retailers. Our current cost in production material + vat is at 5.62£ per unit, which we sell at 11.86£, so that'sa gross margin of 6.24£, which is a more than 52%. Last year we've sold 50k Blocks which granted us a 593000£ turnover, so a 312000£ profit.
 
 ### 5. Describe the market
+
 
 
